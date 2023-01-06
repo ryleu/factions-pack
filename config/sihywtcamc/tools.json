@@ -1,0 +1,204 @@
+{
+  "newAttributesValues": true,
+  "reachAttribute": true,
+  "swordSweepingEdge": true,
+  "shieldReduceArc": true,
+  "shieldReduceProtection": true,
+  "shieldDamageProtection": 5,
+  "shieldInstantBlock": true,
+  "shieldEnchantable": true,
+  "shieldThorns": true,
+  "shieldCooldown": true,
+  "axeCooldown": true,
+  "bowLessPower": true,
+  "bowPowerExclusive": true,
+  "crossbowMultishotInclusive": true,
+  "flintFireEntities": true,
+  "modifiedTools": [
+    {
+      "identifiers": [
+        "minecraft:wooden_axe",
+        "minecraft:stone_axe",
+        "minecraft:golden_axe",
+        "minecraft:netherite_shovel"
+      ],
+      "attackDamage": 5.0,
+      "attackSpeed": 2.0,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:iron_axe"
+      ],
+      "attackDamage": 6.0,
+      "attackSpeed": 2.0,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:diamond_axe"
+      ],
+      "attackDamage": 7.0,
+      "attackSpeed": 2.0,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:netherite_axe"
+      ],
+      "attackDamage": 8.0,
+      "attackSpeed": 2.0,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:wooden_pickaxe",
+        "minecraft:stone_pickaxe",
+        "minecraft:golden_pickaxe"
+      ],
+      "attackDamage": 3.0,
+      "attackSpeed": 2.5,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:iron_pickaxe"
+      ],
+      "attackDamage": 4.0,
+      "attackSpeed": 2.5,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:diamond_pickaxe"
+      ],
+      "attackDamage": 5.0,
+      "attackSpeed": 2.5,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:netherite_pickaxe"
+      ],
+      "attackDamage": 6.0,
+      "attackSpeed": 2.5,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:wooden_shovel",
+        "minecraft:stone_shovel",
+        "minecraft:golden_shovel"
+      ],
+      "attackDamage": 2.0,
+      "attackSpeed": 2.0,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:iron_shovel"
+      ],
+      "attackDamage": 3.0,
+      "attackSpeed": 2.0,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:diamond_shovel"
+      ],
+      "attackDamage": 4.0,
+      "attackSpeed": 2.0,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:wooden_sword",
+        "minecraft:stone_sword",
+        "minecraft:golden_sword"
+      ],
+      "attackDamage": 4.0,
+      "attackSpeed": 3.0,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:iron_sword"
+      ],
+      "attackDamage": 5.0,
+      "attackSpeed": 3.0,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:diamond_sword"
+      ],
+      "attackDamage": 6.0,
+      "attackSpeed": 3.0,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:netherite_sword"
+      ],
+      "attackDamage": 7.0,
+      "attackSpeed": 3.0,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:wooden_hoe"
+      ],
+      "attackDamage": 2.0,
+      "attackSpeed": 2.0,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "minecraft:stone_hoe"
+      ],
+      "attackDamage": 2.0,
+      "attackSpeed": 2.5,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "minecraft:golden_hoe"
+      ],
+      "attackDamage": 2.0,
+      "attackSpeed": 3.5,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "minecraft:iron_hoe"
+      ],
+      "attackDamage": 3.0,
+      "attackSpeed": 3.0,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "minecraft:diamond_hoe"
+      ],
+      "attackDamage": 3.0,
+      "attackSpeed": 3.5,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "minecraft:netherite_hoe"
+      ],
+      "attackDamage": 4.0,
+      "attackSpeed": 3.5,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "minecraft:trident"
+      ],
+      "attackDamage": 7.0,
+      "attackSpeed": 2.0,
+      "attackReach": 3.5
+    }
+  ]
+}
