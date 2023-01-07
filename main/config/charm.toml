@@ -5,7 +5,7 @@
 #Place a block of amethyst under a note block to play its placement sound.
 "AmethystNoteBlock Enabled" = true
 #Storage for maps that automatically updates the displayed map as you explore.
-"Atlases Enabled" = true
+"Atlases Enabled" = false
 #Refills your hotbar from your inventory.
 "AutoRestock Enabled" = true
 #Unlocks all vanilla recipes.
