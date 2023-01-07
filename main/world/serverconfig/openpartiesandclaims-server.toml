@@ -120,7 +120,12 @@
                 "minecraft:lever",
                 "#minecraft:buttons",
                 "#minecraft:doors",
-                "#minecraft:trapdoors"
+                "#minecraft:trapdoors",
+                "#adorn:drawers",
+                "#adorn:kitchen_cupboards",
+                "#adorn:shelves",
+                "#toms_storage:remote_activate",
+                "toms_storage:ts.*_terminal"
             ]
 			#Custom groups of blocks that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple blocks and block tags.
 			#A group without a prefix creates a player config option for the right-click interaction with the group blocks. The format for a block group is <group ID>{<blocks/tags/wildcards separated by ,>}.
