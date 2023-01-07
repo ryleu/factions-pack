@@ -1,6 +1,6 @@
 {
   "clientConfig": {
-    "frostOverlayStart": 0.5,
+    "frostOverlayStart": 0.75,
     "doColdHeartOverlay": true,
     "shakingStartPercent": 0.75,
     "renderDripParticles": true
@@ -34,7 +34,7 @@
     "freezeDamageAmount": 2,
     "freezeDamageExtraAmount": 5,
     "powderSnowFreezeRate": 30,
-    "sunLichenHeatPerLevel": 500,
+    "sunLichenHeatPerLevel": 1000,
     "campfireWarmthSearchRadius": 10.0,
     "campfireWarmthTime": 1200,
     "ultrawarmThawRate": 15,
