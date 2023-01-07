@@ -310,7 +310,7 @@ hash = "e9d95c9d11d7a48b95e085a8001ce0c7252e34abe6a7d1fae4a219bebf1f24e1"
 
 [[files]]
 file = "config/universal-graves.json"
-hash = "78ff744fe54e47bfc681daab1dff953aed7fe30e302e8aff5d03ed766413f680"
+hash = "58cc2cdda8ee6c4b9b21301fc8e7ab000d0eeb701c0f0b2cb9d0961fafc44192"
 
 [[files]]
 file = "config/waterdripsound.json"
@@ -2445,4 +2445,4 @@ metafile = true
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-server.toml"
-hash = "bc2c03906e7d2e1080585276d0c0510800ba2f3186190010eff21745a0297b79"
+hash = "0c48397a0d175e715de246b6940cb3b75d10dc12fa3ce6c72078fccf1e0820a8"

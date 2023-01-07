@@ -118,7 +118,9 @@
                 "#c:barrel",
                 "#c:shulker_boxes",
                 "minecraft:lever",
-                "#minecraft:buttons"
+                "#minecraft:buttons",
+                "#minecraft:doors",
+                "#minecraft:trapdoors"
             ]
 			#Custom groups of blocks that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple blocks and block tags.
 			#A group without a prefix creates a player config option for the right-click interaction with the group blocks. The format for a block group is <group ID>{<blocks/tags/wildcards separated by ,>}.

@@ -29,8 +29,8 @@
     "<white>${player}"
   ],
   "customStyleUpdateRate": 20,
-  "protectionTime": 900,
-  "breakingTime": 1800,
+  "protectionTime": 0,
+  "breakingTime": 300,
   "teleportTime": 5,
   "invincibleTime": 2,
   "keepBlockAfterBreaking": false,
