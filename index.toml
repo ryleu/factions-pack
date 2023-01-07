@@ -346,7 +346,7 @@ hash = "a6f92c9ebd4d2b578d446bbb62504fd8bc7bac8fb7273ab49a174bf0779122d0"
 
 [[files]]
 file = "global_packs/required_data/factions-additional-tweaks/data/factions/functions/load.mcfunction"
-hash = "e21364ffb60f514b2d8da2ca415bf19e3550aaff4b40fc3439051ececac0c007"
+hash = "a75c51b5d0561e1866cc7ea024c195bd7176a2c93ef254560494225b782c1059"
 
 [[files]]
 file = "global_packs/required_data/factions-additional-tweaks/data/factions/functions/tick.mcfunction"
@@ -2453,4 +2453,4 @@ metafile = true
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-server.toml"
-hash = "43b7899de69f7c67a32fca75fbd287b00cc196edf79a09cde79869e7df447818"
+hash = "2af97d2328f73e7cacba3e135f331745561dd02de71479fa9356bb84982cb972"
