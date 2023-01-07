@@ -153,10 +153,6 @@ file = "config/flywheel.json"
 hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
 
 [[files]]
-file = "config/frostiful.json"
-hash = "f7c6e0f5b381ecc7e1c037714d5232a6ee2228e5f6b98c2c02ca6394ae205277"
-
-[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "a07b9d599a8d128e8ea715b887f6019a3964a6f0beb99debff830db18b249aa7"
 
@@ -367,26 +363,6 @@ hash = "80ff2b74d44083d9c0f9d5e77d78ec40043224561e193ec1b66f22bcf1ae6478"
 [[files]]
 file = "global_packs/required_data/factions-additional-tweaks/data/factions/recipes/name_tag.json"
 hash = "20f03a24cf25be656a3cbe0e3fbdefe081d69069d47ec9ee471e3a0aef48dbc7"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/diamond_knife.json"
-hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/flint_knife.json"
-hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/golden_knife.json"
-hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/iron_knife.json"
-hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/netherite_knife.json"
-hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
 
 [[files]]
 file = "global_packs/required_data/factions-additional-tweaks/data/minecraft/tags/functions/load.json"
@@ -2180,11 +2156,6 @@ metafile = true
 [[files]]
 file = "mods/frame-api.pw.toml"
 hash = "8178032232586e97c3db3aa7c9f5c3901d98c53b6aeed32097a4acbfd908c374"
-metafile = true
-
-[[files]]
-file = "mods/frostiful.pw.toml"
-hash = "ddc22a2da1e04c905d55d1da8a25233b46a47ce119613feccceffa9a8a2f5fcb"
 metafile = true
 
 [[files]]
