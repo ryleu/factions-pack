@@ -1,0 +1,11 @@
+{
+    "schemaVersion": 1,
+    "commandMode": "COMMAND_CUSTOM",
+    "command": "die",
+    "actions": [
+      {
+        "command": "kill $executor_name()",
+        "commandType": "SERVER"
+      }
+    ]
+  }
