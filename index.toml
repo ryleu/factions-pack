@@ -1953,6 +1953,11 @@ file = "global_packs/required_resources/vanilla_tweaks/pack.png"
 hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
@@ -2000,6 +2005,11 @@ metafile = true
 [[files]]
 file = "mods/better-beds.pw.toml"
 hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "77cd17d1dff5330d6af8141daa28a580dcb1123a798adc6ca130eef93ae8b38f"
 metafile = true
 
 [[files]]
