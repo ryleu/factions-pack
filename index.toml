@@ -369,6 +369,26 @@ file = "global_packs/required_data/factions-additional-tweaks/data/factions/reci
 hash = "20f03a24cf25be656a3cbe0e3fbdefe081d69069d47ec9ee471e3a0aef48dbc7"
 
 [[files]]
+file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/diamond_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/flint_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/golden_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/iron_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/netherite_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
 file = "global_packs/required_data/factions-additional-tweaks/data/minecraft/tags/functions/load.json"
 hash = "29bd2a5073a7548b519386e73c2079b2f5dc3d5a9d9b295fe245ff09c935b411"
 
@@ -2380,11 +2400,6 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "2285e883b1b85fb5a966e023c75180b6415a2860fa0962d472d2d8caf4cff83d"
-metafile = true
-
-[[files]]
-file = "mods/sihywtcamc.pw.toml"
-hash = "fe0f96ed3e970a1efa68fff6bea4e1589414015a15df56fe799732f84cd68f45"
 metafile = true
 
 [[files]]
