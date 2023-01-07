@@ -1,50 +1,6 @@
 {
-    "schemaVersion": 1,
-    "commandMode": "COMMAND_CUSTOM",
-    "command": "unclaim",
-    "actions": [
-      {
-        "command": "commandaliases database match claims.$executor_name()",
-        "commandType": "SERVER",
-        "actionsIfSuccessful": [
-          {
-            "command": "commandaliases compute moreThan claims.$executor_name().more_than_comparator $get_database_value(claims.$executor_name()) 0",
-            "commandType": "SERVER",
-            "requireSuccess": true
-          },
-          {
-            "command": "commandaliases compute lessThanEquals claims.$executor_name().less_than_equals_comparator $get_database_value(claims.$executor_name()) 3",
-            "commandType": "SERVER",
-            "requireSuccess": true
-          },
-          {
-            "command": "commandaliases compute condition \"$get_database_value(claims.$executor_name().less_than_equals_comparator) && $get_database_value(claims.$executor_name().more_than_comparator)\"",
-            "commandType": "SERVER",
-            "requireSuccess": true,
-            "messageIfUnsuccessful" : "You can't unclaim more than 0"
-          },
-          {
-            "command": "openpac-claims unclaim",
-            "commandType": "SERVER",
-            "requireSuccess": true
-          },
-          {
-            "command": "commandaliases compute numericalEvaluate claims.$executor_name() \"$get_database_value(claims.$executor_name())-1\"",
-            "commandType": "SERVER",
-            "requireSuccess": true
-          }
-        ],
-        "actionsIfUnsuccessful": [
-          {
-            "command": "commandaliases database put claims.$executor_name() 0",
-            "commandType": "SERVER",
-            "requireSuccess": true
-          },
-          {
-            "command": "unclaim",
-            "commandType": "CLIENT"
-          }
-        ]
-      }
-    ]
-  }
+  "schemaVersion": 1,
+  "commandMode": "COMMAND_REDIRECT_NOARG",
+  "command": "unclaim",
+  "redirectTo": "openpac-claims unclaim"
+}
