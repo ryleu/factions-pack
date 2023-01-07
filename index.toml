@@ -62,7 +62,7 @@ hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
 file = "config/charm.toml"
-hash = "1180a711196ffa76f38c32dc5c910e7c12ab2baecfa61429591b90520b0855ef"
+hash = "f4fac9d6ea97b33abec270f143afb70530f458d0ef0b85c2f318f00c2fed5749"
 
 [[files]]
 file = "config/charmonium.toml"
