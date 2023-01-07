@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/main.yml"
-hash = "dc727f9d1134f729bb98a5f70ab25578ea4f94f7d13ee30de86f78ea6ed461c5"
-
-[[files]]
 file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
-
-[[files]]
-file = "README.md"
-hash = "b3b425ee3762ffca9f90cf6cf5dcdae4dee98bfb331838177e2a062400530c7c"
 
 [[files]]
 file = "config/Adorn.json5"
