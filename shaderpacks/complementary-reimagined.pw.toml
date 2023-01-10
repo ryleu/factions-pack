@@ -11,8 +11,3 @@ hash = "a85fa028bf09cb0ee4ee51f9d9703522c16e597f"
 [update.modrinth]
 mod-id = "HVnmMxH1"
 version = "Eur2NpSB"
-
-[option]
-optional = true
-default = false
-description = "Medium quality shaders."
