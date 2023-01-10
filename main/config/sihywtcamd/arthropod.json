@@ -4,12 +4,12 @@
     "larvaeSpeedBonus": true
   },
   "silverfish": {
-    "infestedEverywhere": true
+    "infestedEverywhere": false
   },
   "spider": {
     "baby": false,
-    "webProjectileGoal": true,
-    "caveSpiderJockey": true,
+    "webProjectileGoal": false,
+    "caveSpiderJockey": false,
     "caveSpiderNaturalSpawn": true
   }
 }
