@@ -2446,8 +2446,8 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
-file = "mods/terra.pw.toml"
-hash = "b3061c52ef9d8cf3332fc36d556a4a953a093a028376a517e2f8746edf0f7419"
+file = "mods/terrablender-fabric.pw.toml"
+hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
