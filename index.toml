@@ -314,11 +314,11 @@ hash = "a6f92c9ebd4d2b578d446bbb62504fd8bc7bac8fb7273ab49a174bf0779122d0"
 
 [[files]]
 file = "global_packs/required_data/factions-additional-tweaks/data/factions/functions/load.mcfunction"
-hash = "a75c51b5d0561e1866cc7ea024c195bd7176a2c93ef254560494225b782c1059"
+hash = "e210ea8d6ece8334c7d9e90c2d69ae3bc02857a4773d0b0a152ef35b2cabb3c4"
 
 [[files]]
 file = "global_packs/required_data/factions-additional-tweaks/data/factions/functions/tick.mcfunction"
-hash = "41b8234f57b33f48dcc8126c0699f0d6b1fd06fb015cacfd0fe4a8945fd62f71"
+hash = "d01728d9c55fc4b7194812552cc9491e249636fd34e111f9d4130a8b69ebaaf9"
 
 [[files]]
 file = "global_packs/required_data/factions-additional-tweaks/data/factions/recipes/coarse_dirt_crushing.json"
