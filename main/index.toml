@@ -62,7 +62,7 @@ hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
 file = "config/charm.toml"
-hash = "f4fac9d6ea97b33abec270f143afb70530f458d0ef0b85c2f318f00c2fed5749"
+hash = "1180a711196ffa76f38c32dc5c910e7c12ab2baecfa61429591b90520b0855ef"
 
 [[files]]
 file = "config/charmonium.toml"
@@ -151,6 +151,10 @@ hash = "844448ea584db81c9fcba0bb1d901f604d985204f251019846581ff71b38235f"
 [[files]]
 file = "config/flywheel.json"
 hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
+
+[[files]]
+file = "config/frostiful.json"
+hash = "f342c440b060f0ff0b70ba2954eb1a4d46d31840f45f70f2b07595c4673a9bfa"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -363,6 +367,26 @@ hash = "80ff2b74d44083d9c0f9d5e77d78ec40043224561e193ec1b66f22bcf1ae6478"
 [[files]]
 file = "global_packs/required_data/factions-additional-tweaks/data/factions/recipes/name_tag.json"
 hash = "20f03a24cf25be656a3cbe0e3fbdefe081d69069d47ec9ee471e3a0aef48dbc7"
+
+[[files]]
+file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/diamond_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/flint_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/golden_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/iron_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/netherite_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
 
 [[files]]
 file = "global_packs/required_data/factions-additional-tweaks/data/minecraft/tags/functions/load.json"
@@ -2004,6 +2028,11 @@ hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "77cd17d1dff5330d6af8141daa28a580dcb1123a798adc6ca130eef93ae8b38f"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
@@ -2016,6 +2045,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
+metafile = true
+
+[[files]]
+file = "mods/bottled-air.pw.toml"
+hash = "978bb9ce4d2a395d207dacaa0d398d9584dadad90bd017fafc0d183ee663f8cc"
 metafile = true
 
 [[files]]
@@ -2051,6 +2085,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "e38f9c2d25cf912e95f1a153c56573a1e56edc48e1d20067de5d226d78950772"
 metafile = true
 
 [[files]]
@@ -2149,8 +2188,23 @@ hash = "b560d826e84582158fa66d039531cf71511af996a7dc028491924e46866d7577"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "8734a1cae80c68536718f2d911ab88762d16083d7bab09162eff0f310e5ef054"
+metafile = true
+
+[[files]]
+file = "mods/fish-of-thieves.pw.toml"
+hash = "9d2eea6692afc65ee73bc2df00420aa372e1cc1f2b72d041c2f9da22755e6aa3"
+metafile = true
+
+[[files]]
 file = "mods/frame-api.pw.toml"
 hash = "8178032232586e97c3db3aa7c9f5c3901d98c53b6aeed32097a4acbfd908c374"
+metafile = true
+
+[[files]]
+file = "mods/frostiful.pw.toml"
+hash = "ddc22a2da1e04c905d55d1da8a25233b46a47ce119613feccceffa9a8a2f5fcb"
 metafile = true
 
 [[files]]
@@ -2196,6 +2250,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "3c95ba1c0a5e8065fbce03ea38aef44e5dfdff2e681c81a8720e6ff543774309"
+metafile = true
+
+[[files]]
+file = "mods/keymap.pw.toml"
+hash = "fd4b368219f77d94ff5616faf9225f48a09a2b29e22651dca96236589cd81194"
 metafile = true
 
 [[files]]
@@ -2269,6 +2333,11 @@ hash = "3329afb49f3d9c3653fff23844485b752f079e2a6b94906d31b889006a07fbea"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
 metafile = true
@@ -2310,7 +2379,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "b39a29623977769f92afcebfdcfa95d71acb2d513b4611a9462c0964b2f30294"
+hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
 metafile = true
 
 [[files]]
@@ -2321,11 +2390,6 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "af0e46a40167fe12c8621a6cbd0281d2e6168e95507c5e94fd3d4eaa88f8d84e"
-metafile = true
-
-[[files]]
-file = "mods/requiem.pw.toml"
-hash = "f3ee2ed045aadd9b00942c517d5b0fbddacee0bccf1a9cadfd03841e043ad155"
 metafile = true
 
 [[files]]
@@ -2429,8 +2493,18 @@ hash = "a50adf5dc08750b87e7681fb99637e39660e61befc795793023f4024ec7eeec3"
 metafile = true
 
 [[files]]
+file = "shaderpacks/builders-qol-shaders.pw.toml"
+hash = "45c2a02581900934b9ba0bbbc76bdaf6ca123d51834207a7e9c02f64d90897cf"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "cb4579f87f5390c8e6a5e8a901661bc2637390548641544eb830aaba8bdb5d0d"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-shaders.pw.toml"
-hash = "7b6dd7afa0fcafedfb6eddbb177f7b227b957ecdd6de10e16b319fe3c1bb217b"
+hash = "27cebd245655f06845e27fd5b09d4ce4ff9c4f74685b84b188734f71a64fa610"
 metafile = true
 
 [[files]]

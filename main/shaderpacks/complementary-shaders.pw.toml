@@ -1,14 +1,18 @@
-name = "Complementary Shaders v4"
-filename = "ComplementaryShaders_v4.7_pre1.zip"
+name = "Complimentary Shaders"
+filename = "ComplementaryShaders_v4.6.zip"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/R6NEzAwj/versions/6JepS0T6/ComplementaryShaders_v4.6.zip"
 hash-format = "sha1"
-hash = "f308b1fb3eea3557b4bab61ec4afec47d905f285"
-mode = "metadata:curseforge"
+hash = "42274da3fe2cd1847ff14a7699b411172cf3025d"
 
 [update]
-[update.curseforge]
-file-id = 4279382
-project-id = 385587
+[update.modrinth]
+mod-id = "R6NEzAwj"
+version = "6JepS0T6"
 
+[option]
+optional = true
+default = false
+description = "High quality shaders."
