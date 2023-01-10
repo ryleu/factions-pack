@@ -41,6 +41,10 @@ file = "config/bwncr.toml"
 hash = "9ed2a62329df506d0f4a7cfe789b104666594154715c7beed9c0084cd78f935c"
 
 [[files]]
+file = "config/byg/client/biomepedia_inventory.json5"
+hash = "9af8193929d6813f0629cb5d234261df21c75ea25cb976a3e54f1ac57880200c"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "395d5b16dcff490033dad48d97d5401bd96c22bf86d8ab24eca41c539f95fd39"
 
