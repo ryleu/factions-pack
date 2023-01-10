@@ -4,11 +4,11 @@
 	# (Default = false) Stops the server from loading spawn chunks.
 	disable_spawn_chunks = false
 	# (Default = false) Allows more xp orbs to merge with one another, to reduce xp orb lag.
-	fast_xp_merging = false
+	fast_xp_merging = true
 	# (Default = false) Prevents lagspikes caused by players moving into unloaded chunks.
-	prevent_moving_into_unloaded_chunks = false
+	prevent_moving_into_unloaded_chunks = true
 	# (Default = false) Makes villagers tick less often if they are stuck in a 1x1 space.
-	lobotomize_villagers = false
+	lobotomize_villagers = true
 	# (Default = 20) Decides the interval in between villager ticks when lobotomized.
 	lobotomized_tick_interval = 20
 	# (Default = 5) The amount of minutes in between auto-save intervals when /save-on is active.
@@ -52,7 +52,7 @@
 # Stops animals / villagers from breeding if there are too many of the same type nearby.
 [breeding_cap]
 	# (Default = false) Enables this feature.
-	enabled = false
+	enabled = true
 	# (Default = [Villager: 24, Animals: 32]) Maximum count before stopping entities of the same type from breeding.
 	villager_count = 24
 	animal_count = 32
@@ -72,7 +72,7 @@
 	cache_ticking_chunks = true
 	# (Default = false) Can significantly reduce time spent on mobspawning, but isn't as accurate as vanilla on biome borders.
 	# This may cause mobs from another biome to spawn a few blocks across a biome border (this does not affect structure spawning!).
-	fast_biome_lookups = false
+	fast_biome_lookups = true
 
 # Allows you to disable specific commands and modify the way some of them are formatted.
 [commands]

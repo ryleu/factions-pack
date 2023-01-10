@@ -5,7 +5,7 @@
 #Place a block of amethyst under a note block to play its placement sound.
 "AmethystNoteBlock Enabled" = true
 #Storage for maps that automatically updates the displayed map as you explore.
-"Atlases Enabled" = true
+"Atlases Enabled" = false
 #Refills your hotbar from your inventory.
 "AutoRestock Enabled" = true
 #Unlocks all vanilla recipes.
@@ -33,7 +33,7 @@
 #Cave spiders have a chance to drop cobwebs when killed.
 "CaveSpidersDropCobwebs Enabled" = true
 #Experimental! Right-click (with empty hand) on any stairs block to sit down. 
-"Chairs Enabled" = true
+"Chairs Enabled" = false
 #Chickens randomly drop feathers.
 "ChickensDropFeathers Enabled" = true
 #Add amethyst shards to item frames to make them invisible.
@@ -114,7 +114,7 @@
 "NoCuredVillagerDiscount Enabled" = false
 #When any action would cause a villager to become a nitwit, it becomes an unemployed villager instead.
 #This is an opinionated feature that removes a gameplay element and so is disabled by default.
-"NoNitwits Enabled" = false
+"NoNitwits Enabled" = true
 #Tamed animals do not take direct damage from players.
 "NoPetDamage Enabled" = true
 #Removes the potion enchantment glint so you can see what the potion color is.
@@ -123,7 +123,7 @@
 "NoSpyglassScope Enabled" = true
 #Treasure enchantments such as Mending and Soul Speed are no longer tradeable with villagers.
 #This is an opinionated feature designed to force the player to explore and so is disabled by default.
-"NoTreasureEnchantmentTrading Enabled" = false
+"NoTreasureEnchantmentTrading Enabled" = true
 #Automatically opens double doors.
 "OpenBothDoors Enabled" = true
 #Parrots stay on your shoulder when jumping and falling. Crouch to make them dismount.
@@ -137,7 +137,7 @@
 #Right-click with a hoe to quickly harvest and replant a fully-grown crop.
 "QuickReplant Enabled" = true
 #Raid horns are sometimes dropped from raid leaders and can be used to call off or start raids.
-"RaidHorns Enabled" = true
+"RaidHorns Enabled" = false
 #A lantern that emits light when a redstone signal is received.
 "RedstoneLanterns Enabled" = true
 #A block that acts like sand but is powered like a block of redstone.
@@ -150,7 +150,7 @@
 "RepairTridentsFromShards Enabled" = true
 #The repsawn anchor can be used in the End.
 #This is an opinionated feature that changes core gameplay and so is disabled by default.
-"RespawnAnchorInTheEnd Enabled" = false
+"RespawnAnchorInTheEnd Enabled" = true
 #An item's repair cost is shown in their tooltip when looking at the anvil screen.
 "ShowRepairCost Enabled" = true
 #Drag and drop items into a shulkerbox from within your inventory.
@@ -210,15 +210,15 @@
 	#Map scale used in atlases by default.
 	"Map scale" = 0
 	#If true, sets a keybind for swapping the item in your main hand with the first available atlas in your inventory (defaults to 'r').
-	"Enable keybind" = true
+	"Enable keybind" = false
 
 [BatBuckets]
 	#Number of seconds that entities will receive the glowing effect.
-	"Glowing time" = 10
+	"Glowing time" = 15
 	#Range (in blocks) in which entities will glow.
-	"Viewing range" = 24
+	"Viewing range" = 32
 	#If true, the bat will take half a heart of damage when released from the bucket.
-	"Damage bat" = true
+	"Damage bat" = false
 
 [BlockOfEnderPearls]
 	#A chorus fruit will teleport you to an ender pearl block within this range (in blocks).
@@ -290,7 +290,7 @@
 	#If true, adds a shapeless recipe for paper.
 	"Shapeless paper" = true
 	#If true, adds a recipe for crafting bundles from leather.
-	"Bundle from leather" = true
+	"Bundle from leather" = false
 
 [ExtraTrades]
 	#If true, librarians will buy any enchanted book in return for emeralds.
@@ -302,7 +302,7 @@
 	#If true, butchers will sell beef in return for rotten flesh.
 	"Beef for rotten flesh" = true
 	#If true, leatherworkers will sell bundles in return for emeralds.
-	Bundles = true
+	Bundles = false
 
 [ExtractEnchantments]
 	#Initial cost (in xp levels) of extraction before adding on the cost of the enchantment(s).
@@ -322,7 +322,7 @@
 
 [HusksDropSand]
 	#Maximum sand dropped when husk is killed.
-	"Maximum drops" = 2
+	"Maximum drops" = 0
 
 [ImprovedMineshafts]
 	#Chance (out of 1.0) of blocks such as candles and ores spawning on the floor of corridors.
@@ -340,7 +340,7 @@
 
 [NoCropTrampling]
 	#If true, a player or mob will trample crops unless wearing boots with feather falling enchantment.
-	"Require feather falling" = false
+	"Require feather falling" = true
 
 [PortableCrafting]
 	#If true, sets a keybind for opening the portable crafting table (defaults to 'v').
@@ -352,13 +352,13 @@
 
 [RaidHorns]
 	#Chance (out of 1.0) of a patrol captain dropping a raid horn when killed by the player.
-	"Drop chance" = 0.05
+	"Drop chance" = 0.0
 	#Volume of the raid horn sound effect when used.  1.0 is maximum volume.
 	Volume = 0.75
 
 [RepairElytraFromLeather]
 	#If true, leather can be used to repair elytra even when insomnia is disasbled.
-	"Allow when insomnia enabled" = false
+	"Allow when insomnia enabled" = true
 
 [RepairNetheriteFromScrap]
 	#Number of levels required to restore durability.
@@ -375,7 +375,7 @@
 
 [StackableEnchantedBooks]
 	#Maximum enchanted book stack size.
-	"Stack size" = 16
+	"Stack size" = 64
 
 [StackablePotions]
 	#Maximum potion stack size.
@@ -383,7 +383,7 @@
 
 [StackableStews]
 	#Maximum stew stack size.
-	"Stack size" = 16
+	"Stack size" = 64
 	#Also apply to suspicious stew.
 	"Enable suspicious stew" = false
 
@@ -394,9 +394,9 @@
 [TotemOfPreserving]
 	#If true, a new totem will be spawned to preserve items upon dying.
 	#Players do NOT need to be holding a Totem of Preserving.
-	"Grave mode" = true
+	"Grave mode" = false
 	#If true, only the owner of the totem may pick it up.
-	"Owner only" = false
+	"Owner only" = true
 	#Mobs that have a chance to drop a totem of preserving.
 	#This does not apply if Grave mode is true.
 	"Mobs drop totems" = ["entities/witch", "entities/pillager"]
@@ -446,5 +446,5 @@
 
 [WitchesDropLuck]
 	#Chance (out of 1.0) of a witch dropping a Potion of Luck when killed by the player.
-	"Drop chance" = 0.05
+	"Drop chance" = 0.1
 

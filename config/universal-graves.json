@@ -37,7 +37,7 @@
   "restoreBlockAfterPlayerBreaking": true,
   "maxGraveCount": -1,
   "xpStorageType": "percent_points",
-  "xpPercentTypeValue": 100.0,
+  "xpPercentTypeValue": 50.0,
   "teleportHeight": 0.5,
   "replaceAnyBlock": false,
   "maxPlacementDistance": 8,
