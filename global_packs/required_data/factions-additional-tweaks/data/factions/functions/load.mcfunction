@@ -9,3 +9,6 @@ scoreboard objectives setdisplay belowName hp
 
 scoreboard objectives add deaths deathCount
 scoreboard objectives setdisplay list deaths
+
+gamerule doFireTick false
+gamerule doInsomnia false
