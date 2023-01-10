@@ -6,5 +6,5 @@
   "breachingRadius": 30,
   "maxY": 320,
   "minY": -64,
-  "poweredChance": 0.1
+  "poweredChance": 0.0
 }
