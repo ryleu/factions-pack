@@ -34,7 +34,7 @@ hash = "ea2820399d91db4dae84b60c35f112888c44d2125b3b8308915694e1c1e6b76f"
 
 [[files]]
 file = "config/bobby.conf"
-hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
+hash = "5d7701865970d56cbea91c8f01ad921f9c3db34cca3891c69849d8ca1c4d31c3"
 
 [[files]]
 file = "config/bwncr.toml"
@@ -50,7 +50,7 @@ hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
 file = "config/charm.toml"
-hash = "1180a711196ffa76f38c32dc5c910e7c12ab2baecfa61429591b90520b0855ef"
+hash = "c4c45226a16998fd88edddd24fe4d71510d6097066f5a5d2d1d7d78a4e76b72e"
 
 [[files]]
 file = "config/charmonium.toml"
@@ -90,11 +90,11 @@ hash = "76707e79487581023226b0da6124601d88d0dd46dedcbe889cd2248ea0ab4a2e"
 
 [[files]]
 file = "config/creeperaiupdated.json"
-hash = "be44be652078655e684f343ffd5a3c7e1d2cb948b23abd831ae161dc81e600e1"
+hash = "838bb590c48af0cbdaffeee767ce1c393f7efc1e336ae899c5fb7c2521ebd19a"
 
 [[files]]
 file = "config/crowdin.txt"
-hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
+hash = "6b4d7eb81f36519c9672a2af5007a85501e33752d6e37edc509c3cea2b312215"
 
 [[files]]
 file = "config/cull-less-leaves.json"
@@ -102,19 +102,11 @@ hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
 
 [[files]]
 file = "config/dynamicfps.toml"
-hash = "f5474c5f2aa9e04cc88211eb6c0b7c4d3835814ba7047252edf624355862caa6"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+hash = "8f2e45033f1b3f97415087809632ff16fb05510776318e1f17fb3fb0a79c5ac9"
 
 [[files]]
 file = "config/exordium.json"
 hash = "fa4e11ae6581c67e802f7295148e03100d340403682ee74eb272e73a84efd95d"
-
-[[files]]
-file = "config/extrasounds.cache"
-hash = "4e04de48f8a6423dbc302a3829e7d2d750bfbc0320607706e4df76491918d757"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -157,10 +149,6 @@ file = "config/interactic.json5"
 hash = "720111b282c3128b3bf9a4d04b4f831f32f51a2a7e04853b92bd18a04f2bce7a"
 
 [[files]]
-file = "config/iris.properties"
-hash = "a1c96f4ac01aa315184bd338f4e493738b0bc115327beac74437b1cb5a44ed10"
-
-[[files]]
 file = "config/lambdabettergrass.toml"
 hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
 
@@ -186,7 +174,7 @@ hash = "0ec99e2aebcefedcf1d5681b6d9cd83d5ed6af32cb8004db0d0699c47beb1164"
 
 [[files]]
 file = "config/overlord.json"
-hash = "3c0ed346b3fd147d9738cf1bd066027f344a8c041ec5fb6f2eb8f6f40c02d45f"
+hash = "3b0541c8ee2ec8b69cb839fc0d0a6b370a52bf0c2d01f1c2edb9c30fc0d7d01d"
 
 [[files]]
 file = "config/pal.properties"
@@ -214,7 +202,7 @@ hash = "7e5beb923c78ce4582d523b7629e26c6ce0f4a33d24a4cf027ba9d6b8a332915"
 
 [[files]]
 file = "config/servercore.toml"
-hash = "89c3be65d25a37fe47bc9d74d8552c592795dc0a13f5d7f85a016708a42db538"
+hash = "8a316ad5ecd556d473ac4d11f5a2f2510aa07c6e12ab6055270599dd0a03dbcd"
 
 [[files]]
 file = "config/sihywtcamc/general.json"
@@ -226,7 +214,7 @@ hash = "bd9b4d7ec21d089a0e3ad3c4b66ead4c2c8e4b5486662760eac0964974b5b406"
 
 [[files]]
 file = "config/sihywtcamd/arthropod.json"
-hash = "d9708e9f278ca633bcddb6723e57e1d3f949ebe2c98ccd11407b4e6f4fcdbb49"
+hash = "d9c0fcd1303a73b2b754c9864428b31889733112b25854dfc89ad05d8c22b5ea"
 
 [[files]]
 file = "config/sihywtcamd/boss.json"
@@ -242,7 +230,7 @@ hash = "c6b06e3e2487fefa7cf7575610cc13eec102ad99bed40a61728e86454e746ca5"
 
 [[files]]
 file = "config/sihywtcamd/nether.json"
-hash = "001abec8cd2fdaa9c8edb29ab00bc53abbe8accf7a8811ad65ee70a7ec5e06e8"
+hash = "6eaad3d4144e8f0e3754a192a273cce3b99fc023fad8bc0b1cb8a2ef06dc25f4"
 
 [[files]]
 file = "config/sihywtcamd/overworld.json"
@@ -285,10 +273,6 @@ file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
-file = "config/spark/tmp/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
 file = "config/tr7zwDonorSettings.json"
 hash = "00c5704f0bf0b89f14d7b8eba4eeb38199bc760f4d00dd78a2c2bcf32747c009"
 
@@ -297,12 +281,8 @@ file = "config/twigs/twigs_world_gen_replacements.json"
 hash = "e9d95c9d11d7a48b95e085a8001ce0c7252e34abe6a7d1fae4a219bebf1f24e1"
 
 [[files]]
-file = "config/twigs/twigs_world_gen_replacements.json_old"
-hash = "e9d95c9d11d7a48b95e085a8001ce0c7252e34abe6a7d1fae4a219bebf1f24e1"
-
-[[files]]
 file = "config/universal-graves.json"
-hash = "58cc2cdda8ee6c4b9b21301fc8e7ab000d0eeb701c0f0b2cb9d0961fafc44192"
+hash = "5c99c87773cb20a6fc05957e2583b056c37a9cacdaf9c47b100747e674395acb"
 
 [[files]]
 file = "config/waterdripsound.json"
@@ -314,7 +294,7 @@ hash = "519f811142b420c13dcf133196b9edd93046cf37e30c63afaf4f0e962b4fc94a"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "d1eaefd0c010a29f4ad0ba0ce35cc885b63485bcb1e472670ff5211943f78afa"
+hash = "9b327ae6c0c06b47f2891fe093a70bc2568269f23286f36f4c91b180c016b5cd"
 
 [[files]]
 file = "global_packs/required_data/factions-additional-tweaks/data/factions/functions/drink_coffee.mcfunction"
@@ -2463,6 +2443,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/terra.pw.toml"
+hash = "b3061c52ef9d8cf3332fc36d556a4a953a093a028376a517e2f8746edf0f7419"
 metafile = true
 
 [[files]]
