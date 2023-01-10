@@ -11,8 +11,3 @@ hash = "42274da3fe2cd1847ff14a7699b411172cf3025d"
 [update.modrinth]
 mod-id = "R6NEzAwj"
 version = "6JepS0T6"
-
-[option]
-optional = true
-default = false
-description = "High quality shaders."

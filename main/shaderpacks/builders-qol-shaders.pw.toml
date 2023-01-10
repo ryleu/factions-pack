@@ -11,8 +11,3 @@ hash = "fa3cb738952021756f28f2ea0acaf2e37efa87d6"
 [update.modrinth]
 mod-id = "6NnvPzWJ"
 version = "pN8VfhwO"
-
-[option]
-optional = true
-default = false
-description = "Potato quality shaders."
