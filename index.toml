@@ -62,7 +62,7 @@ hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
 file = "config/charm.toml"
-hash = "f4fac9d6ea97b33abec270f143afb70530f458d0ef0b85c2f318f00c2fed5749"
+hash = "1180a711196ffa76f38c32dc5c910e7c12ab2baecfa61429591b90520b0855ef"
 
 [[files]]
 file = "config/charmonium.toml"
@@ -2253,6 +2253,16 @@ hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "3c95ba1c0a5e8065fbce03ea38aef44e5dfdff2e681c81a8720e6ff543774309"
+metafile = true
+
+[[files]]
+file = "mods/keymap.pw.toml"
+hash = "fd4b368219f77d94ff5616faf9225f48a09a2b29e22651dca96236589cd81194"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "90f3e53b8e7d850b8177d38a728592ef9359715f98ba1ab683b87c3198aad329"
 metafile = true
@@ -2369,7 +2379,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "b39a29623977769f92afcebfdcfa95d71acb2d513b4611a9462c0964b2f30294"
+hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
 metafile = true
 
 [[files]]
@@ -2380,11 +2390,6 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "af0e46a40167fe12c8621a6cbd0281d2e6168e95507c5e94fd3d4eaa88f8d84e"
-metafile = true
-
-[[files]]
-file = "mods/requiem.pw.toml"
-hash = "f3ee2ed045aadd9b00942c517d5b0fbddacee0bccf1a9cadfd03841e043ad155"
 metafile = true
 
 [[files]]
@@ -2499,7 +2504,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders.pw.toml"
-hash = "7b6dd7afa0fcafedfb6eddbb177f7b227b957ecdd6de10e16b319fe3c1bb217b"
+hash = "27cebd245655f06845e27fd5b09d4ce4ff9c4f74685b84b188734f71a64fa610"
 metafile = true
 
 [[files]]
