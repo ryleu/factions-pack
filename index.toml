@@ -1956,6 +1956,11 @@ hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "3cce9bc7a299070cffd83336372c0747c70ddbf19d0baf203347ef1ad35828e2"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "4622fb45626c72f5310606c9db18271e18a195cf7ef57707287039dd9f81a299"
 metafile = true
@@ -1998,6 +2003,16 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "77cd17d1dff5330d6af8141daa28a580dcb1123a798adc6ca130eef93ae8b38f"
+metafile = true
+
+[[files]]
+file = "mods/better-compressed-blocks.pw.toml"
+hash = "aae511d1d6ce8139a2114fb983340b0d64497193fbe3f8285e9de257e57e5121"
+metafile = true
+
+[[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "5a32457d03397962ca0ac645236f9e212c01a9589768857f85f49d5427ed8ce1"
 metafile = true
 
 [[files]]
@@ -2067,7 +2082,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e38f9c2d25cf912e95f1a153c56573a1e56edc48e1d20067de5d226d78950772"
+hash = "92d729abef5e243fe8ddc6b95bf37b4a2b46976090fd495b4d01fe33c759633c"
 metafile = true
 
 [[files]]
@@ -2083,6 +2098,11 @@ metafile = true
 [[files]]
 file = "mods/creeper-ai-updated.pw.toml"
 hash = "ebeed2914a7c80dec07156fcb3361ab80fe4881219bea7a5e559707db4e5e9d5"
+metafile = true
+
+[[files]]
+file = "mods/crying-portals.pw.toml"
+hash = "211402f6cd3e9c55d1f75419d200162c3e711b80254aa35b6dc256eb738fe46d"
 metafile = true
 
 [[files]]
@@ -2136,6 +2156,11 @@ hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
 
 [[files]]
+file = "mods/extended-bone-meal.pw.toml"
+hash = "04d371348300c198d188d5724edefc33d0e424c21564e09646e743d59c3d58f9"
+metafile = true
+
+[[files]]
 file = "mods/extrasounds.pw.toml"
 hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
@@ -2148,6 +2173,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+metafile = true
+
+[[files]]
+file = "mods/fast-portals.pw.toml"
+hash = "34a117be86b8a8610cded7018c82da3a91610e827c8f2a52cb62f1002db22b75"
 metafile = true
 
 [[files]]
@@ -2301,6 +2331,11 @@ hash = "63914b645092557cf4824cf3be35e71f5cf8b9345a1c45de27d5da13e97b48f4"
 metafile = true
 
 [[files]]
+file = "mods/nether-portal-spread.pw.toml"
+hash = "10c496a954c08d2b413adb4bdbe1bc60f776b6173d1eaf8765dbcb6f9c3ea242"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
@@ -2443,6 +2478,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/tempered-glass.pw.toml"
+hash = "8a5824fd08925b17c286c9376bee95b0ddec53693ceff06ee2836c9df31393da"
 metafile = true
 
 [[files]]
