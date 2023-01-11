@@ -1,6 +1,0 @@
-{
-    "schemaVersion": 1,
-    "commandMode": "COMMAND_REDIRECT_NOARG",
-    "command": "claim",
-    "redirectTo": "openpac-claims claim"
-  }

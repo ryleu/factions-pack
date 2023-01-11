@@ -1,6 +1,0 @@
-{
-    "schemaVersion": 1,
-    "commandMode": "COMMAND_REDIRECT",
-    "command": "party",
-    "redirectTo": "openpac-parties"
-}

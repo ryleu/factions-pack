@@ -1,2 +1,0 @@
-# factions-pack
-factions modpack
