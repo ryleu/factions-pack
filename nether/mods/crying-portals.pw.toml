@@ -1,0 +1,13 @@
+name = "Crying Portals"
+filename = "cryingportals-fabric_1.19.2-1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3RkVNglH/versions/TkFgqKu7/cryingportals-fabric_1.19.2-1.8.jar"
+hash-format = "sha1"
+hash = "a5e54c0efe420e9f46afa5700762eaae4c0a3422"
+
+[update]
+[update.modrinth]
+mod-id = "3RkVNglH"
+version = "TkFgqKu7"

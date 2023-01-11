@@ -1,0 +1,18 @@
+{
+  "newAttributesValues": false,
+  "reachAttribute": false,
+  "swordSweepingEdge": false,
+  "shieldReduceArc": true,
+  "shieldReduceProtection": true,
+  "shieldDamageProtection": 5,
+  "shieldInstantBlock": true,
+  "shieldEnchantable": true,
+  "shieldThorns": true,
+  "shieldCooldown": true,
+  "axeCooldown": false,
+  "bowLessPower": true,
+  "bowPowerExclusive": true,
+  "crossbowMultishotInclusive": true,
+  "flintFireEntities": true,
+  "modifiedTools": []
+}

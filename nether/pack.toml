@@ -1,0 +1,16 @@
+name = "Factions Pack"
+author = "ryleu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f263c209de013feeccee4660af43b5bba49254b97442da021aaa3c4c12d82566"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.8"
+
+[options]
+acceptable-game-versions = ["1.19.2", "1.19"]

@@ -1,0 +1,13 @@
+name = "Better Compressed Blocks"
+filename = "compressed-blocks-1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LIv30E74/versions/GUFXtr4t/compressed-blocks-1.7.jar"
+hash-format = "sha1"
+hash = "c794d48c90d4499d6611c76b05e028e5213b7ad5"
+
+[update]
+[update.modrinth]
+mod-id = "LIv30E74"
+version = "GUFXtr4t"
