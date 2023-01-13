@@ -348,7 +348,7 @@
 
 [QuickReplant]
 	#List of blockstate definitions for replantable crops.
-	"Replantable blockstates" = ["minecraft:beetroots[age=3]", "minecraft:carrots[age=7]", "minecraft:nether_wart[age=3]", "minecraft:potatoes[age=7]", "minecraft:wheat[age=7]"]
+	"Replantable blockstates" = ["minecraft:beetroots[age=3]", "minecraft:carrots[age=7]", "minecraft:nether_wart[age=3]", "minecraft:potatoes[age=7]", "minecraft:wheat[age=7]", "farmersdelight:onions[age=7]", "farmersdelight:cabbages[age=7]"]
 
 [RaidHorns]
 	#Chance (out of 1.0) of a patrol captain dropping a raid horn when killed by the player.
