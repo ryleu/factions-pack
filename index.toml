@@ -2081,6 +2081,11 @@ hash = "2c4f96dec72bca24e06a27fc9ebb8670c91b6aaebd4c7659790bd49c5ae98751"
 metafile = true
 
 [[files]]
+file = "mods/craftify.pw.toml"
+hash = "868cb7eb532766acdafe92964e2275ab9d3c2a74cbf6aec0215e357132da6270"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
 metafile = true
@@ -2293,11 +2298,6 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
-metafile = true
-
-[[files]]
-file = "mods/modern-industrialization.pw.toml"
-hash = "7f2adc84303b278117efe707e7b3db89bfae0d987535582c67809750a9456f09"
 metafile = true
 
 [[files]]
