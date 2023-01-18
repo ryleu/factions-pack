@@ -1,13 +1,13 @@
 name = "Bottled Air"
-filename = "bottledair-fabric_1.19.2-1.7.jar"
+filename = "bottledair-1.19.2-2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hvrrNux3/versions/qkG7L5nf/bottledair-fabric_1.19.2-1.7.jar"
+url = "https://cdn.modrinth.com/data/hvrrNux3/versions/VG2ChH3l/bottledair-1.19.2-2.0.jar"
 hash-format = "sha1"
-hash = "c3825ab540b4a28ebbc6c59ff95a544fe9f290b1"
+hash = "bbb30374281c3a59a37c29f995939fd16f039e00"
 
 [update]
 [update.modrinth]
 mod-id = "hvrrNux3"
-version = "qkG7L5nf"
+version = "VG2ChH3l"
