@@ -2371,6 +2371,11 @@ hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
 metafile = true
 
 [[files]]
+file = "mods/qu-enchantments.pw.toml"
+hash = "ceb9b6f4e501a207be1a577072158628b82eb579da26fe1d3593ab539186dcb4"
+metafile = true
+
+[[files]]
 file = "mods/rats-mischief.pw.toml"
 hash = "b0da1f56d9d037a5edb8b837bbf5a7dafb7679f42a9a2bd7865bbb2d4fad57b1"
 metafile = true
