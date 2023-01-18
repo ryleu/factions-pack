@@ -2021,6 +2021,11 @@ hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
+metafile = true
+
+[[files]]
 file = "mods/bottled-air.pw.toml"
 hash = "978bb9ce4d2a395d207dacaa0d398d9584dadad90bd017fafc0d183ee663f8cc"
 metafile = true
@@ -2291,6 +2296,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "7f2adc84303b278117efe707e7b3db89bfae0d987535582c67809750a9456f09"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
@@ -2366,8 +2376,18 @@ hash = "b0da1f56d9d037a5edb8b837bbf5a7dafb7679f42a9a2bd7865bbb2d4fad57b1"
 metafile = true
 
 [[files]]
+file = "mods/reaper.pw.toml"
+hash = "9a10b0ff87f25d4d7210b3e39b8883768bac98d3e00b5b1bbbd1e54c8c1c3821"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "af0e46a40167fe12c8621a6cbd0281d2e6168e95507c5e94fd3d4eaa88f8d84e"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "b8a7848d058a838ed12889cc4005234d4feaf350343ad14f351004d4d25d9c2b"
 metafile = true
 
 [[files]]
@@ -2441,6 +2461,11 @@ hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
 metafile = true
 
 [[files]]
+file = "mods/spirit.pw.toml"
+hash = "d74f7b0d2418835913a13b90b1be0e27d624056bc05a3fa886d1e6fad1619743"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
@@ -2468,6 +2493,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
+metafile = true
+
+[[files]]
+file = "mods/vitalize.pw.toml"
+hash = "ec561648b8bc606f603a15567e3df5ccdd34e26f61098fa5f4525e102d248f4b"
 metafile = true
 
 [[files]]
