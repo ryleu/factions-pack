@@ -297,1648 +297,1636 @@ file = "config/xaeroworldmap.txt"
 hash = "9b327ae6c0c06b47f2891fe093a70bc2568269f23286f36f4c91b180c016b5cd"
 
 [[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/factions/functions/drink_coffee.mcfunction"
-hash = "eb36268e1972f41ec0a220147c1cb6d9227ac61f07a5741675e73adec36df00b"
+file = "kubejs/README.txt"
+hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
 [[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/factions/functions/drink_hot_chocolate.mcfuntion"
-hash = "7393806dbe79b7392d43f1ac03767b9b32dfa5ffbe781242ef51e2134f8ed7eb"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/factions/functions/drink_tea.mcfunction"
-hash = "a6f92c9ebd4d2b578d446bbb62504fd8bc7bac8fb7273ab49a174bf0779122d0"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/factions/functions/load.mcfunction"
-hash = "e210ea8d6ece8334c7d9e90c2d69ae3bc02857a4773d0b0a152ef35b2cabb3c4"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/factions/functions/tick.mcfunction"
-hash = "d01728d9c55fc4b7194812552cc9491e249636fd34e111f9d4130a8b69ebaaf9"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/factions/recipes/coarse_dirt_crushing.json"
-hash = "0e371bc5ba73307d8da9b26cbaf58c3f7a5a4c6473102cbaeb48b158064de849"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/factions/recipes/coarse_dirt_shapeless.json"
-hash = "b890f41f3e387fe3bb264de879d2fc126d5852a13b588322f028da5428a9e368"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/factions/recipes/cobble_to_pebbles.json"
-hash = "b3dc8054fa67de665ba1d874470b24a0b17629e866373fca5291a9ec199a20ce"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/factions/recipes/crush_snow.json"
-hash = "80ff2b74d44083d9c0f9d5e77d78ec40043224561e193ec1b66f22bcf1ae6478"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/factions/recipes/name_tag.json"
-hash = "20f03a24cf25be656a3cbe0e3fbdefe081d69069d47ec9ee471e3a0aef48dbc7"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/diamond_knife.json"
-hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/flint_knife.json"
-hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/golden_knife.json"
-hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/iron_knife.json"
-hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/farmersdelight/weapon_attributes/netherite_knife.json"
-hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/minecraft/tags/functions/load.json"
-hash = "29bd2a5073a7548b519386e73c2079b2f5dc3d5a9d9b295fe245ff09c935b411"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/ratsmischief/recipes/leather_rat_pouch.json"
-hash = "ea0e0c6b06e72464cc2be1ae9a470bb692ea3dc282b05710c9babbfd5bd475ef"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/data/simplechunkloader/recipes/chunkloader.json"
-hash = "7d83e23b39df0097f5d158ccbe9d17cb2041af8c5f0379eb8e8bb1ad9e2fe217"
-
-[[files]]
-file = "global_packs/required_data/factions-additional-tweaks/pack.mcmeta"
-hash = "b79ae32e3136ce1eea09911c1aaca646eab69282a4bcf115a87cc4b9b6badb2c"
-
-[[files]]
-file = "global_packs/required_resources/vanilla_tweaks/Selected Packs.txt"
-hash = "3557d9c42a5e15890302bc880db4fe6c7db03a9230f4f19977ffba21fec6fec8"
-
-[[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/blockstates/bee_nest.json"
+file = "kubejs/assets/minecraft/blockstates/bee_nest.json"
 hash = "2a3f85421a9fdb96ebedcb649c412594197b7819fc8073aa0957447be9c6e367"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/blockstates/beehive.json"
+file = "kubejs/assets/minecraft/blockstates/beehive.json"
 hash = "fb1e48f6736468f6948ae0de1afaa0878958d327e55699addeb7a560b20fc253"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/blockstates/deepslate_redstone_ore.json"
+file = "kubejs/assets/minecraft/blockstates/deepslate_redstone_ore.json"
 hash = "6e6b16c0b43b2f76765782d61c1a4e0e92fe1ff321609b11e85cbb6783ad9397"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/blockstates/note_block.json"
+file = "kubejs/assets/minecraft/blockstates/note_block.json"
 hash = "5d7015bb2f9e9a4da3897c594269ce3f59e09b331e1d8a4b12a85ca840129b7f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/blockstates/powder_snow_cauldron.json"
+file = "kubejs/assets/minecraft/blockstates/powder_snow_cauldron.json"
 hash = "2d623601cd902b315548102c7a9c215e49213f6b8f7cfbac9eba0f0a7cc742d7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/blockstates/redstone_ore.json"
+file = "kubejs/assets/minecraft/blockstates/redstone_ore.json"
 hash = "715735024f92009da0899ee052b27ef6a80ff81a156ad1684bbeefcb3f547544"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/blockstates/water_cauldron.json"
+file = "kubejs/assets/minecraft/blockstates/water_cauldron.json"
 hash = "e336952a4e453ff6e74f64c5e7e3d5ffd00b6247eaea357c5e051bd307d0a28e"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/bee_nest_filled_1.json"
+file = "kubejs/assets/minecraft/models/block/bee_nest_filled_1.json"
 hash = "e4d2169cc848c390aae57cce60d12398b577392ad081c8478a561810f7b3a438"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/bee_nest_filled_2.json"
+file = "kubejs/assets/minecraft/models/block/bee_nest_filled_2.json"
 hash = "6405d91487ca21a2b183ef10c4a24e0c5c4852b5d51cb82c3916906385a3ec89"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/bee_nest_filled_3.json"
+file = "kubejs/assets/minecraft/models/block/bee_nest_filled_3.json"
 hash = "9f4eb13b8132dbe095ec7c897adaed7e046b62ff2f15a1738e4ac97416f8d1cf"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/bee_nest_filled_4.json"
+file = "kubejs/assets/minecraft/models/block/bee_nest_filled_4.json"
 hash = "c3383e596bc15761adbfb07cf6cfdd91b0f40261a9744af215ea95bf753b2442"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/beehive_filled_1.json"
+file = "kubejs/assets/minecraft/models/block/beehive_filled_1.json"
 hash = "86a57380df923d2a7985d058a74579943e0aea30c8d47e8c23685128c415be4c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/beehive_filled_2.json"
+file = "kubejs/assets/minecraft/models/block/beehive_filled_2.json"
 hash = "10c66eecc32347675d1ccb7defe79fa5fc86d2b27b42ccae11e82b09c77fd699"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/beehive_filled_3.json"
+file = "kubejs/assets/minecraft/models/block/beehive_filled_3.json"
 hash = "8327b007bc129b4e1bff9659cc095cd44139ba4304d388f2d51d3705f9305ab7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/beehive_filled_4.json"
+file = "kubejs/assets/minecraft/models/block/beehive_filled_4.json"
 hash = "f24ecf536668d4df67c0cbc2ec1728037ed9b71cbc63c84cef2145fad02cfb03"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/campfire_off.json"
+file = "kubejs/assets/minecraft/models/block/campfire_off.json"
 hash = "937aab4aae6be431e2fba68a89183bd42dc2ffdd2a6cf08097e527d048f76b72"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/cauldron.json"
+file = "kubejs/assets/minecraft/models/block/cauldron.json"
 hash = "67a7b860bb29be03c6d7d39f6f1d2d6b338c4c017553fea6ba5158cd7a4f5ffc"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/composter.json"
+file = "kubejs/assets/minecraft/models/block/composter.json"
 hash = "7163bd17f8bd658d47c442d14256677b92714d47b3f6f9d130899107b9ba8e94"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/composter_contents1.json"
+file = "kubejs/assets/minecraft/models/block/composter_contents1.json"
 hash = "fbffc28d4cfed8c01e1faab5cebe28ed99cfac4c1a14802ff9633a4cc721dea5"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/composter_contents2.json"
+file = "kubejs/assets/minecraft/models/block/composter_contents2.json"
 hash = "548484d8f48769504c9221358b257deb64137ee947d9040918da90fa994b61da"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/composter_contents3.json"
+file = "kubejs/assets/minecraft/models/block/composter_contents3.json"
 hash = "efe4755193f3498a96d87d97707dfe7aff507fd1a0f8c836947c87105cdbbf72"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/composter_contents4.json"
+file = "kubejs/assets/minecraft/models/block/composter_contents4.json"
 hash = "afac21efea94dee9829af5eab41f435dd95ae24ef766029b6f65b9301a6b4ab7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/composter_contents5.json"
+file = "kubejs/assets/minecraft/models/block/composter_contents5.json"
 hash = "350cf359e1a477c8bc5242f4372a0a626d55a71796eb6dbe4b5181bfac580620"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/composter_contents6.json"
+file = "kubejs/assets/minecraft/models/block/composter_contents6.json"
 hash = "929172d59cea2d25c00859f8f75b8e6aefeb6cb49de1aab69698ce95c8e39e75"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/composter_contents7.json"
+file = "kubejs/assets/minecraft/models/block/composter_contents7.json"
 hash = "530605dd3225f63030cdea1754499d079c109d978da46bd338ac42e0849dd866"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/composter_contents_ready.json"
+file = "kubejs/assets/minecraft/models/block/composter_contents_ready.json"
 hash = "5b8829be2b49e0b666bd7ce89f0dc28a73e383faca27a0ea980de630cb1d2ee3"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/deepslate_redstone_ore_off.json"
+file = "kubejs/assets/minecraft/models/block/deepslate_redstone_ore_off.json"
 hash = "88c96fac989700d9c31afc8f97f54f58fc8ee8032a682a4526d00519865fc7ea"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/dispenser.json"
+file = "kubejs/assets/minecraft/models/block/dispenser.json"
 hash = "d427baa5d021e6435e06d75ae0452242655da5df9fc20a6be9fa1684e9238b8d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/dispenser_vertical.json"
+file = "kubejs/assets/minecraft/models/block/dispenser_vertical.json"
 hash = "557ac98949a066bef6a1ce7dced98bf1fdec8b6ee6463dd9492ce2a75e96bee4"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/dropper.json"
+file = "kubejs/assets/minecraft/models/block/dropper.json"
 hash = "af443836323bc00276a99094b0e5e4cc0a0f8f69ec28b3b74c00bb0afd0d9e75"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/dropper_vertical.json"
+file = "kubejs/assets/minecraft/models/block/dropper_vertical.json"
 hash = "12e50246ff3b1260c2bb1f33497480a257861c580cc826d1e8944cedfec9f9d2"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/hopper_side.json"
+file = "kubejs/assets/minecraft/models/block/hopper_side.json"
 hash = "078470299c8ce97eb03dbdad67029df3a0f4c3efb4dffcdc3b7c2f38c6ac6661"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/lava_cauldron.json"
+file = "kubejs/assets/minecraft/models/block/lava_cauldron.json"
 hash = "0cf123b2cb5cc1b367f49d3f781f32413bfb98ec1edc36052ef1c05fcbe7a3ea"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/lever.json"
+file = "kubejs/assets/minecraft/models/block/lever.json"
 hash = "802da934ea5a5354bbdbab3e3bb4174070f3a6b74d5131c7f0155da813583ae4"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/lever_on.json"
+file = "kubejs/assets/minecraft/models/block/lever_on.json"
 hash = "dce71bd75e5e8e2d2aa91a00508a088c06143db3ac79e065c877fcb8d3a9b527"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/lodestone.json"
+file = "kubejs/assets/minecraft/models/block/lodestone.json"
 hash = "9e790bbe49643b3f7b4a7e16e2e54c606a1d13982896ca7b4570bd8f33638a8d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/0.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/0.json"
 hash = "df13390235415618f2a936bf1f1c9eee91e626570af354c26d18a050d124d678"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/1.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/1.json"
 hash = "36264ac2b8db36f9d881e4c28d4662db0dadedcfa6c9591207fcf91591f108c4"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/10.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/10.json"
 hash = "d59cf62a13c4e7ad33bb6c1d35332eab7954889b6806f53fa40ac6077bc06c2d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/11.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/11.json"
 hash = "b1bb0b0b5d4ee08543e870d59a706d1bc5cfbd48eb873c3e3fc78dae06c52dc1"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/12.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/12.json"
 hash = "c68d397d7d03ededdaa15ea6e4f6ed8aeca6f532fc9e82619425a1f0deb778d4"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/13.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/13.json"
 hash = "4ec89831e82c75089dbb0df81b223a2a77e08edfeb0a20ab4364a7135098bc6c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/14.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/14.json"
 hash = "88bebfcead1b641aca37b3d32631ea9ebf22493fa757f2f4209dce7b39dfb7de"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/15.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/15.json"
 hash = "29fdd57cd215ea617ac5e76321a7e9c3db34b13186fe35cebc261a04683ce396"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/16.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/16.json"
 hash = "e865cca9a679f2cfeb382495784b4331883175032001d457ad067695c483b3ef"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/17.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/17.json"
 hash = "a16e9c9bc94e13ece447bb7b18638c5d59c8a3cee662e2df0abf3e404c1965dc"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/18.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/18.json"
 hash = "6bb2ea78980ece063f862c4ad307341d3b7c5fb70331a52b0c60c76e7150e7c8"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/19.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/19.json"
 hash = "e62786d996b386414e43e4f162efbbf9ae541ccd964fa8a18b06506509c763e9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/2.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/2.json"
 hash = "6cd7583610429e0c939a1f000c31ef15b2052ed3bd283a6ea23134ef52f797d9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/20.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/20.json"
 hash = "5ba428286533a5cf908fd4be29e418512cb2c1a72a4f3a898a4368c0f55c508c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/21.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/21.json"
 hash = "215acf4cc1ea0b8650f8d0c42b2a52191eea84bbf3b6328ed9388fc4c959d1c9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/22.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/22.json"
 hash = "824e4e63aae6c92889928b48efe1f4e4fe7cce9d58ab81e85a5a585739344761"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/23.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/23.json"
 hash = "fa508dabb6857012e3596992a0b9fcd1863a8ae6d15d4c1234640d1339294b0a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/24.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/24.json"
 hash = "9fffb069552b99ae6a2541ccb30e611f53f5a72ea02e2a726400390ff1963eeb"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/3.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/3.json"
 hash = "ad4497ffa318f6482b8c238c30a27f8482bcb6975568e7e4cd94eef1f9d236ea"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/4.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/4.json"
 hash = "95e4c02fb3509e249762f5e25c4a8b4a1492cb2127dc1a4bb590a058e44c94c0"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/5.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/5.json"
 hash = "ee4d26563532c6c2290d7f98a5730e6f164b7b76d86f76ef12204ebf02938bbf"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/6.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/6.json"
 hash = "0a31c115a59f1280f1626eb1b73522e22d5dcea6cc016737bbd4635f36f65a64"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/7.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/7.json"
 hash = "33ab4d8539a86d11a6b437d53b0e952aa82de0494dfe3075ef28be11d0eaf732"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/8.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/8.json"
 hash = "489fb14ad0995eb18617ef70848b754eef5b92df96f54e35563917838d6868c7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/note_block/block/9.json"
+file = "kubejs/assets/minecraft/models/block/note_block/block/9.json"
 hash = "57cde52f674c75c691c95a7c510cba9e12ffb2a4ec175b31ba9c31c3cae41668"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/observer.json"
+file = "kubejs/assets/minecraft/models/block/observer.json"
 hash = "045a4a0a5eb23ae5f20caec2489b5b2cc38d93ac3f99c91cf1b98989395f6835"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/observer_on.json"
+file = "kubejs/assets/minecraft/models/block/observer_on.json"
 hash = "8c6560432e5995ace577afc2409af1d8d620d9b73aeba06c9f908e925e651b98"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/piston_head_short_sticky.json"
+file = "kubejs/assets/minecraft/models/block/piston_head_short_sticky.json"
 hash = "6005fde8835b70fa3532d84fb667339bca71866d6b2f9120c92681f5abb14ef3"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/piston_head_sticky.json"
+file = "kubejs/assets/minecraft/models/block/piston_head_sticky.json"
 hash = "bcc8171c967d2cfbeb7f3b2b126ea093d82519c679463e515f8947395f2d61f3"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/powder_snow_cauldron_level_1.json"
+file = "kubejs/assets/minecraft/models/block/powder_snow_cauldron_level_1.json"
 hash = "a763d1c272b33d68fa5986272694346ea414c6d89630532b350886d281ccbbe1"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/powder_snow_cauldron_level_2.json"
+file = "kubejs/assets/minecraft/models/block/powder_snow_cauldron_level_2.json"
 hash = "81addcde9c4498aa0ccccd7c45554c58fea2f127be950ced3828c60c77ac7258"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/powder_snow_cauldron_level_3.json"
+file = "kubejs/assets/minecraft/models/block/powder_snow_cauldron_level_3.json"
 hash = "ac044c3f79d7756e22d4f6f27976e22e59db4f7ae1d512f87958c7a2dc6d4c3c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/redstone_ore_off.json"
+file = "kubejs/assets/minecraft/models/block/redstone_ore_off.json"
 hash = "b83a6891dff0476e793c06919d75fc7c0f9be7a024dea493eec38b110af0b3bc"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/soul_campfire_off.json"
+file = "kubejs/assets/minecraft/models/block/soul_campfire_off.json"
 hash = "937aab4aae6be431e2fba68a89183bd42dc2ffdd2a6cf08097e527d048f76b72"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/sticky_piston.json"
+file = "kubejs/assets/minecraft/models/block/sticky_piston.json"
 hash = "eaf778c19899548c6490c61d5b993eaf6a52573f10987317dbf0a2deacf903d2"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/sticky_piston_inventory.json"
+file = "kubejs/assets/minecraft/models/block/sticky_piston_inventory.json"
 hash = "fc14ffec4f7472286718179902a22dcc109fdc8bbcdca8184eee6d03dbf4108c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/template_campfire_off.json"
+file = "kubejs/assets/minecraft/models/block/template_campfire_off.json"
 hash = "83aa1f17522f7866444142f7bdfbbf9ab384c740e57c86c22c3f939fd484611f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/water_cauldron_level_1.json"
+file = "kubejs/assets/minecraft/models/block/water_cauldron_level_1.json"
 hash = "10f6032ec5257ac7ccbf0441defb8222b058ed1485a76e1744846419ceb927ea"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/water_cauldron_level_2.json"
+file = "kubejs/assets/minecraft/models/block/water_cauldron_level_2.json"
 hash = "846e6561acc4872fa1a5f5a57d0c2c82c1b6aaffb750774a5d0d27fd61bedb16"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/block/water_cauldron_level_3.json"
+file = "kubejs/assets/minecraft/models/block/water_cauldron_level_3.json"
 hash = "4b8a1903cee7c976e6fb9a517827de8ef299ec23da43b97fd48ea560fc614c2c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/black_bed.json"
+file = "kubejs/assets/minecraft/models/item/black_bed.json"
 hash = "18a15181fc4038bf1947a033faad9906ebe3a9f4c3176c5caf40e11ad257567c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/blue_bed.json"
+file = "kubejs/assets/minecraft/models/item/blue_bed.json"
 hash = "e1346257894244bab0f2ec84f58440a10933c0760b4305028747875d20d43516"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/brown_bed.json"
+file = "kubejs/assets/minecraft/models/item/brown_bed.json"
 hash = "cab968eed3a25946faca535d312db1200e991692cd6c60eee1f8947963788e7b"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/cyan_bed.json"
+file = "kubejs/assets/minecraft/models/item/cyan_bed.json"
 hash = "d7e244ad01982aafb7c8c664bd3f895032f380369e1c711a419df679d1e9fa68"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/deepslate_redstone_ore.json"
+file = "kubejs/assets/minecraft/models/item/deepslate_redstone_ore.json"
 hash = "88c96fac989700d9c31afc8f97f54f58fc8ee8032a682a4526d00519865fc7ea"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/gray_bed.json"
+file = "kubejs/assets/minecraft/models/item/gray_bed.json"
 hash = "e7fd8b84b4da99a9447c4ca04078cf9700f58e63699999e089f9524604dfc2dd"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/green_bed.json"
+file = "kubejs/assets/minecraft/models/item/green_bed.json"
 hash = "db12492c2126e6d8ddd6b118d3c0f7cff8e22b41694414bc2a47ad1005598c52"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/infested_chiseled_stone_bricks.json"
+file = "kubejs/assets/minecraft/models/item/infested_chiseled_stone_bricks.json"
 hash = "649606c3e8f00b5c6f18b87a9dc2fb3e91fc295d7c73a63ae8fa8ad3ed99feca"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/infested_cobblestone.json"
+file = "kubejs/assets/minecraft/models/item/infested_cobblestone.json"
 hash = "69762d51ca9da359db2934c9fe420c0413403cd6169a4ceceedcb348588323e3"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/infested_cracked_stone_bricks.json"
+file = "kubejs/assets/minecraft/models/item/infested_cracked_stone_bricks.json"
 hash = "63508eedb278668e6730c9f5ee7d728d1a44098b4c44cfcb9aa4e453d16bf748"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/infested_deepslate.json"
+file = "kubejs/assets/minecraft/models/item/infested_deepslate.json"
 hash = "2caffa7144438508529800957610822a7b4b1b1d570e66b693b3d47a276cebc8"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/infested_mossy_stone_bricks.json"
+file = "kubejs/assets/minecraft/models/item/infested_mossy_stone_bricks.json"
 hash = "3e04abd9184fbb1d058304fca38be458c24f9ac89dbc002def16489db101760e"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/infested_stone.json"
+file = "kubejs/assets/minecraft/models/item/infested_stone.json"
 hash = "534c1c3dddf9668775f465d19d68364f3b1d51c1235f9bba09a7f7fe21c4336d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/infested_stone_bricks.json"
+file = "kubejs/assets/minecraft/models/item/infested_stone_bricks.json"
 hash = "829235da3256c8e75a0bf4a458a19444be8b14fb7e04e8e717babfc17884578d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/light_blue_bed.json"
+file = "kubejs/assets/minecraft/models/item/light_blue_bed.json"
 hash = "993f6b7bc9eba548a8c967bf1d6b3ef7d2d630beb5d3bc1eb494acf9f4928448"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/light_gray_bed.json"
+file = "kubejs/assets/minecraft/models/item/light_gray_bed.json"
 hash = "efcdc1b0013db5fa941ed3ffa0c6b60d24472125f7ebd88b016c6ec400982e8c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/lime_bed.json"
+file = "kubejs/assets/minecraft/models/item/lime_bed.json"
 hash = "15d52e5376dd440473dc2965f9f6c3fb9bab9674102395d10d6dc6410706de2c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/magenta_bed.json"
+file = "kubejs/assets/minecraft/models/item/magenta_bed.json"
 hash = "39ebc7a689e8d942948c92877d76940b7cc4bdfffd8926711ac42596cb89c8ad"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/orange_bed.json"
+file = "kubejs/assets/minecraft/models/item/orange_bed.json"
 hash = "24266d9f8bcd4c9e0c776b34102927942572cecc538aa7f195be53be42edd771"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/pink_bed.json"
+file = "kubejs/assets/minecraft/models/item/pink_bed.json"
 hash = "00a83deab17f10ee064923365958a942b81dc060014705d9b3c8084cdbd8f160"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/purple_bed.json"
+file = "kubejs/assets/minecraft/models/item/purple_bed.json"
 hash = "a750f5c0b9eca690c973435d9a19c9dfcf3ec949a0801dbf2f28ffd4e9f85b06"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/red_bed.json"
+file = "kubejs/assets/minecraft/models/item/red_bed.json"
 hash = "7edf6457d613a3cf4190aff3830c537bd017c5cfdfcf8b1947877017467e7d4a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/redstone_ore.json"
+file = "kubejs/assets/minecraft/models/item/redstone_ore.json"
 hash = "b83a6891dff0476e793c06919d75fc7c0f9be7a024dea493eec38b110af0b3bc"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/shield.json"
+file = "kubejs/assets/minecraft/models/item/shield.json"
 hash = "fcaca194cf7629c99e38e740ac3b82f086c380554a243d1eb9e7a26033b0cfae"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/shield_blocking.json"
+file = "kubejs/assets/minecraft/models/item/shield_blocking.json"
 hash = "12d174312f31c851267724c5aedae53b5bd4737bbefee3c6dc12917bacc3b739"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/sticky_piston.json"
+file = "kubejs/assets/minecraft/models/item/sticky_piston.json"
 hash = "fcd7fb9069f94602a20ba50400d16df019320ca16f97152d7501ecd5ae27696c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/tall_grass.json"
+file = "kubejs/assets/minecraft/models/item/tall_grass.json"
 hash = "5bac8effafa6730caf18c91c5ba0f31f00edf78029e1d3620eedfba5e8e966d6"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_copper_block.json"
+file = "kubejs/assets/minecraft/models/item/waxed_copper_block.json"
 hash = "b1a5c4a22451aa607f1da9df83add72ca01d28973d775c2adcd0ef7fe933a34a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_cut_copper.json"
+file = "kubejs/assets/minecraft/models/item/waxed_cut_copper.json"
 hash = "26a044d12efa19ca9a254da6947cc3f953aa3ab2253a45c914b47db14a9c00f7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_cut_copper_slab.json"
+file = "kubejs/assets/minecraft/models/item/waxed_cut_copper_slab.json"
 hash = "9af80d1bf33a83bfe2abb0073467b897c604175a49d436716b316a88a37eb474"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_cut_copper_stairs.json"
+file = "kubejs/assets/minecraft/models/item/waxed_cut_copper_stairs.json"
 hash = "600d59a48b272256bfa6465fe7a6e09b430ffefb2a25ac76067f77e64e179be4"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_exposed_copper.json"
+file = "kubejs/assets/minecraft/models/item/waxed_exposed_copper.json"
 hash = "3179a38d1a7cfc33ca950525a2fc2f0cc683efa3271e3f55ee8eba36a3e65b9e"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_exposed_cut_copper.json"
+file = "kubejs/assets/minecraft/models/item/waxed_exposed_cut_copper.json"
 hash = "37fe1403e34fc816ffaa1a8e4b0d050e6540f9cbb39c35dabd022721a458beb1"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_exposed_cut_copper_slab.json"
+file = "kubejs/assets/minecraft/models/item/waxed_exposed_cut_copper_slab.json"
 hash = "0a2d324bc8133471fa829216b7dc844705424f330011dd6460f8987de3455239"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_exposed_cut_copper_stairs.json"
+file = "kubejs/assets/minecraft/models/item/waxed_exposed_cut_copper_stairs.json"
 hash = "aa42c441a998b2b0842638000f2ad4aeaf1efb3094218baf975bac25beff9477"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_oxidized_copper.json"
+file = "kubejs/assets/minecraft/models/item/waxed_oxidized_copper.json"
 hash = "def2bc4d7374b52d56d44c17906e6f87926c14eaae615dd3fe7044bc231cd660"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_oxidized_cut_copper.json"
+file = "kubejs/assets/minecraft/models/item/waxed_oxidized_cut_copper.json"
 hash = "6f59b1367899bf40dbf462ac05f61fcde648cf914377b2bfa844191f3a6c412c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_oxidized_cut_copper_slab.json"
+file = "kubejs/assets/minecraft/models/item/waxed_oxidized_cut_copper_slab.json"
 hash = "cc5210e56a5624ea6b4c34d66714e483612d4cd0d11f5b822d01fd80e07206ac"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_oxidized_cut_copper_stairs.json"
+file = "kubejs/assets/minecraft/models/item/waxed_oxidized_cut_copper_stairs.json"
 hash = "046eb93d30bf21dcc6dac7bcbe8481dc6ffa44d974b3c47f5444e2160f160f90"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_stairs.json"
+file = "kubejs/assets/minecraft/models/item/waxed_stairs.json"
 hash = "1e7d02fe76f7d0d52a3951bb350188ddc86c72355b329ae11ee0a8b74e6c55e6"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_weathered_copper.json"
+file = "kubejs/assets/minecraft/models/item/waxed_weathered_copper.json"
 hash = "c24a6c19f197e8c9775fc23bf1a049989c703aed055ae02e6c89eb7f8adc2ab5"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_weathered_cut_copper.json"
+file = "kubejs/assets/minecraft/models/item/waxed_weathered_cut_copper.json"
 hash = "ac4b4c07453bb2539320f89e8c4f6f891e9246766daa1b3ee70f7e6ed85a8598"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_weathered_cut_copper_slab.json"
+file = "kubejs/assets/minecraft/models/item/waxed_weathered_cut_copper_slab.json"
 hash = "1ed74f40a6a877f1369e20b673e6f9c6eaff8e32c2dba4727b389bf9d3f61b25"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/waxed_weathered_cut_copper_stairs.json"
+file = "kubejs/assets/minecraft/models/item/waxed_weathered_cut_copper_stairs.json"
 hash = "7672a5bb6f973815b0c2f04a4c2ee2fbe1ce5a9a55ba938962b7eae18fb82542"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/white_bed.json"
+file = "kubejs/assets/minecraft/models/item/white_bed.json"
 hash = "1105b23b79743fd2f31d40d4a593a7b87186fd1ff0c3ffb3e60af46bd681419b"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/models/item/yellow_bed.json"
+file = "kubejs/assets/minecraft/models/item/yellow_bed.json"
 hash = "de313637e3dc4c34ae9bdcaaf8265fc4d10cda611fdb47bf46fa3af1351643ff"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/acacia_leaves.png"
+file = "kubejs/assets/minecraft/textures/block/acacia_leaves.png"
 hash = "c6390a288c4b590ce75c2f2d8c22047e5428b8911cfba2f49e677e5e670a9b85"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/azalea_leaves.png"
+file = "kubejs/assets/minecraft/textures/block/azalea_leaves.png"
 hash = "f67ee96cbd2274bce5b25efe9003157b6117fcca0c3fa3e58103fd3008692c93"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/bedrock.png"
+file = "kubejs/assets/minecraft/textures/block/bedrock.png"
 hash = "fc8e1178e4ea08ea0d82816ffb90fe69477b9a17d672f62e3004e98604f24952"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/bee_nest_front_filled_1.png"
+file = "kubejs/assets/minecraft/textures/block/bee_nest_front_filled_1.png"
 hash = "753975e756d70d17b1c70d7331cdbb067ee24b1afac4df0d2dbd5afa2a083ce4"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/bee_nest_front_filled_2.png"
+file = "kubejs/assets/minecraft/textures/block/bee_nest_front_filled_2.png"
 hash = "fca60fcc32e04fb451436145b31ae2c83788fe1bf85efc0a4fc1e6c424d5d153"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/bee_nest_front_filled_3.png"
+file = "kubejs/assets/minecraft/textures/block/bee_nest_front_filled_3.png"
 hash = "3f2c5a73d8c56e346182ee59c2fccfadd3a635b519b94d44d7f7b8b1d9f164c5"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/bee_nest_front_filled_4.png"
+file = "kubejs/assets/minecraft/textures/block/bee_nest_front_filled_4.png"
 hash = "16954a3776c7cdc56f3af11f976297da771d63e86cf62fa1748458c3e282434f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/beehive_front_filled_1.png"
+file = "kubejs/assets/minecraft/textures/block/beehive_front_filled_1.png"
 hash = "4b831d58ff4facc3560b1d74ee542be429b17fc02b128d2a5c8b0fda6f856e82"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/beehive_front_filled_2.png"
+file = "kubejs/assets/minecraft/textures/block/beehive_front_filled_2.png"
 hash = "ed58c3c75fa0e6b67056d3308148ed78b951f3771ba98188ad76f5565a4df2e0"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/beehive_front_filled_3.png"
+file = "kubejs/assets/minecraft/textures/block/beehive_front_filled_3.png"
 hash = "770d89809e0e4d3426dc12842451ff70080eff23334cd9e6859f98e95a041fc4"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/beehive_front_filled_4.png"
+file = "kubejs/assets/minecraft/textures/block/beehive_front_filled_4.png"
 hash = "72e5002144d690e39cbd0ddadff715ae523c51c8ccea4803bc417e69fba80648"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/birch_leaves.png"
+file = "kubejs/assets/minecraft/textures/block/birch_leaves.png"
 hash = "84744b437f10e03b8963efee3d5bcfe46e14a017c5da7a02708f9f54a85fe69b"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/cauldron_side_level_0.png"
+file = "kubejs/assets/minecraft/textures/block/cauldron_side_level_0.png"
 hash = "ea1d810f2f44b62c1f8aff81d8901eb922f859db17af6ee4b95e38d61a256c59"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/cauldron_water.png"
+file = "kubejs/assets/minecraft/textures/block/cauldron_water.png"
 hash = "201ba673c2201c7020746a3f6e502efbeecb77ab7cb2d46f32fd3fa8abbde8c1"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/cauldron_water.png.mcmeta"
+file = "kubejs/assets/minecraft/textures/block/cauldron_water.png.mcmeta"
 hash = "25164b6629bf305a0136d5a70be7cb4b1e53def0b65cddd6a2f1b5a3ec4b3020"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/composter_side_level_0.png"
+file = "kubejs/assets/minecraft/textures/block/composter_side_level_0.png"
 hash = "8c401eec4b534cf7c09519cbad6850da36316e72379920c11ffff23c27f4bb2f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/composter_side_level_1.png"
+file = "kubejs/assets/minecraft/textures/block/composter_side_level_1.png"
 hash = "bdb557489e1db06daec7f0ea88ecfb39ba58883ab36a9acce8794211d8c1a07a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/composter_side_level_2.png"
+file = "kubejs/assets/minecraft/textures/block/composter_side_level_2.png"
 hash = "e4b224f892cda607212a0cc8d770b69603689d275fa72f23f773622decbaaee5"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/composter_side_level_3.png"
+file = "kubejs/assets/minecraft/textures/block/composter_side_level_3.png"
 hash = "9bf96addffa373699d9cb9b4bf3bd8e60255deda7bf281ca8949ae332e3a8832"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/composter_side_level_4.png"
+file = "kubejs/assets/minecraft/textures/block/composter_side_level_4.png"
 hash = "72c7bab8f9c16414741679ffd5dfc3310b9128f28d0c3533ffbf771b6e2f3190"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/composter_side_level_5.png"
+file = "kubejs/assets/minecraft/textures/block/composter_side_level_5.png"
 hash = "b69b42d35c781aabb86d711aea1d8b31c41bffcb6a84d47f0b2194fb263c1245"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/composter_side_level_6.png"
+file = "kubejs/assets/minecraft/textures/block/composter_side_level_6.png"
 hash = "ebc6459ec7766301de10bdf99b0f16d5af21b66b8dadbdddef65dd6d7bd3f470"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/composter_side_level_7.png"
+file = "kubejs/assets/minecraft/textures/block/composter_side_level_7.png"
 hash = "10bae115084d57491c1de309ee4e6eea03e31eec52c8cc3711c02036398bd492"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/composter_side_level_8.png"
+file = "kubejs/assets/minecraft/textures/block/composter_side_level_8.png"
 hash = "12af677625121dd0b5c575459e48e623904626d07097b25827f084c32b3082e9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/dark_oak_leaves.png"
+file = "kubejs/assets/minecraft/textures/block/dark_oak_leaves.png"
 hash = "ee905c039a112a0cdda0a92308a841d6475daa910fe5a8c583cb01d051216fa5"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/deepslate_redstone_ore_off.png"
+file = "kubejs/assets/minecraft/textures/block/deepslate_redstone_ore_off.png"
 hash = "e58a24200eceec4e89eac27affd014cb64f769ba1086f426e69068873c101e03"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/dispenser_back.png"
+file = "kubejs/assets/minecraft/textures/block/dispenser_back.png"
 hash = "d1b0b002a5d9a3c57b696c55e27e769b968f113d288b88df8356795769f1affd"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/dispenser_side_l.png"
+file = "kubejs/assets/minecraft/textures/block/dispenser_side_l.png"
 hash = "ff59be768a2edda30361685b745e64c2feca6e23e1957ca4138bd2ed3c986280"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/dispenser_side_r.png"
+file = "kubejs/assets/minecraft/textures/block/dispenser_side_r.png"
 hash = "3b254caf5b3b1a714b73c92f80bab7b45a77e0e61bb08c17ee92ab25f2e7a1cb"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/dispenser_top.png"
+file = "kubejs/assets/minecraft/textures/block/dispenser_top.png"
 hash = "a43430ab074cefad407811d7b85c429f81a742081d1126346be4d129a492e9ef"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/fire_0.png"
+file = "kubejs/assets/minecraft/textures/block/fire_0.png"
 hash = "3c9bd20cbfaa58ce53dd31b036b2216bd7fabab0d5aaec61c6e6feed103cf2ea"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/fire_0.png.mcmeta"
+file = "kubejs/assets/minecraft/textures/block/fire_0.png.mcmeta"
 hash = "264e3b93450a755a1270e28d456208e89cf520cae41de35453ab701f60a5dc3a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/fire_1.png"
+file = "kubejs/assets/minecraft/textures/block/fire_1.png"
 hash = "6529107352a15e6c12e2c5c15eb1801a497ed2e94b28d3d5db7a4881d238325a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/fire_1.png.mcmeta"
+file = "kubejs/assets/minecraft/textures/block/fire_1.png.mcmeta"
 hash = "264e3b93450a755a1270e28d456208e89cf520cae41de35453ab701f60a5dc3a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/fletching_table_front.png"
+file = "kubejs/assets/minecraft/textures/block/fletching_table_front.png"
 hash = "f7b31d3de5867761f3c3d429730598dec4c3df75c49a3cdfcac22d224d8f5180"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/fletching_table_side.png"
+file = "kubejs/assets/minecraft/textures/block/fletching_table_side.png"
 hash = "73c26017fdaf81a38dd2ccdbecf5e6d58a5f79a8755dc48b8218cba44a851921"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/flowering_azalea_leaves.png"
+file = "kubejs/assets/minecraft/textures/block/flowering_azalea_leaves.png"
 hash = "2d3df5e2e99ac56baf32afd3cfa1372c069f8ed2e9c7b9df139e43c81a0d462c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/hopper_inside_arrow.png"
+file = "kubejs/assets/minecraft/textures/block/hopper_inside_arrow.png"
 hash = "7628a957fb7680e82b8ab74c72b3e7fb759d0e84fdcd5d2c4d3c7aa39f032bb7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/hopper_outside_arrow.png"
+file = "kubejs/assets/minecraft/textures/block/hopper_outside_arrow.png"
 hash = "8d7549c7ad544add640352f93ccc2ed8ba00d3bd273c64f45b285fed2c340c07"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/jungle_leaves.png"
+file = "kubejs/assets/minecraft/textures/block/jungle_leaves.png"
 hash = "68a0c35db7800ff1b9a94b5b567951c446404dda1842d76f23e944ed033ae621"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/lava_cauldron_side.png"
+file = "kubejs/assets/minecraft/textures/block/lava_cauldron_side.png"
 hash = "c77db42c594656c49d5f655bf925d6c8cbaf9d9cc0d74c5cfc77a4a00cf26811"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/lava_cauldron_side.png.mcmeta"
+file = "kubejs/assets/minecraft/textures/block/lava_cauldron_side.png.mcmeta"
 hash = "2e47b49f5a7faa2554aa99a14c35b169137eb55c0cc7d65fc820594163acfef9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/lever_base.png"
+file = "kubejs/assets/minecraft/textures/block/lever_base.png"
 hash = "36894a0b40539d4581e1da4c94d527a2e3bda4245763317a171ad41eb1c11426"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/lodestone_east.png"
+file = "kubejs/assets/minecraft/textures/block/lodestone_east.png"
 hash = "881881dd5089b8f79ac69b4fbb4bf7a81c7dc9b5e196f7d0c0b27826f499870b"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/lodestone_north.png"
+file = "kubejs/assets/minecraft/textures/block/lodestone_north.png"
 hash = "c582bad6db08b04e57a6d9a68f9c98e6bd9645d7e63c1e98a8e6e2ee6938dfab"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/lodestone_south.png"
+file = "kubejs/assets/minecraft/textures/block/lodestone_south.png"
 hash = "2dbd05090679f160cceff5accdffcb857134df677ffe6ee572dc0e4df55f4eb5"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/lodestone_west.png"
+file = "kubejs/assets/minecraft/textures/block/lodestone_west.png"
 hash = "c2a3c35fcc216b75c3c567bce746eb8717b53cb0aa8f75198c4b13bf7627e688"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/mangrove_leaves.png"
+file = "kubejs/assets/minecraft/textures/block/mangrove_leaves.png"
 hash = "13dc88e2dd4bf9c2fbfd83d93692ea564aed1b92d1dccedfabcb981d8739a617"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/note_block_side.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/note_block_side.png"
 hash = "cfdae28fa8a7b2826c611d22b74e360ab25f1c3f0d5bed371792cbdaea347f41"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_0.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_0.png"
 hash = "2b72df31b87d90cdfe75131ea17621a01a33e9adbb3c4dd503e4da8d8142e155"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_1.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_1.png"
 hash = "257c3bcfd8ebe44126b6efbdbe13607c823183456b8cc0d865191bf94ba5cd94"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_10.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_10.png"
 hash = "81b22dad1d6444bbaffc1dafd10f0bce71ed64bdc028dcfd1c2992d18f6b3687"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_11.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_11.png"
 hash = "f5a8ecea16d3ef71284752b2c6ddb3059c05c05cb3a35ddc2fbba4b7c73bd0c7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_12.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_12.png"
 hash = "a953ac0fb1b4beaac524a558ed97beb8bd5626dfcfa221240cf129d788988a25"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_13.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_13.png"
 hash = "3322ee1783777080973b0a2219615a591ffe5d25d28ca6f31062bd8f043644dc"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_14.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_14.png"
 hash = "639311b6b6fadfe33c5f4db727ee299568334ffd10d8650beae5cfb74adbc51a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_15.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_15.png"
 hash = "90bf193be2be66af8e30b228cc5598f671bf76b3b864339078956d653b881e13"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_16.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_16.png"
 hash = "9edf064dc58e0dc97d4157468718e6ee11aa7de35bf25571c9eb061979fff318"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_17.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_17.png"
 hash = "8f76a04ea4aeb7a609a5c716949ba03a4ab7c77165fb6c35577e68f9cd70ba55"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_18.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_18.png"
 hash = "dce0989539abd37f94c4094188f4a020b4b767fd787f311d712451e07d821686"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_19.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_19.png"
 hash = "cb067ccedb8c9c8e2d2e903b18bdb1c63262a6757ab9aca1df5e06772ae0c072"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_2.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_2.png"
 hash = "2d2f35db27b01e32d4c726fe1e9acd9f831b26b821b92fdb95529f3fd1e8a19c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_20.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_20.png"
 hash = "4971f46c053a544653fa78fa5e18c5ebd03ff94cccff74c74e39c80bc7f1823a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_21.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_21.png"
 hash = "415b86db873ad2e9c345a9332d5edfcab163687442aaba8e44e3a7651d1cfebc"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_22.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_22.png"
 hash = "2be40162c82c0b7df0c587340400406fd26faee017f4ce96f1a13d17ffff23dc"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_23.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_23.png"
 hash = "863eea044a5b6b7dcfb4f055fb23820f2e48bc72511f032e99763e77af450a64"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_24.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_24.png"
 hash = "2a91feaf49051e594178e516df0038ac461b7e8b6dd0aa9eff60e163f180be42"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_3.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_3.png"
 hash = "eb5d9c0afb621cb3308fee011831120793edd58264534c05cbfd13fa98d54d5f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_4.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_4.png"
 hash = "9fc6c57c7eaabcfa18e294a68429e5243751f0bef500fb5dbd01a4ae02416587"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_5.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_5.png"
 hash = "460a622251a8f811dae5c2470493ef798464ea8de7247c3487bcf9aba1366533"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_6.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_6.png"
 hash = "e8bd25c1d477805092a466a02728362563476d3e496a4bfa0064ccb4b188dc4a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_7.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_7.png"
 hash = "3483a85cb5dbaf779a028b31a1d84a8896dd5407f709089217f516c730d78378"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_8.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_8.png"
 hash = "a4235237f27b7f9f90b73a82d1ed303b7a8c6b97f9e16cf0244f21d719ab1c19"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_9.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/numerical_9.png"
 hash = "6f32bbc0e8cc2c95d67daafaa1231568e9c9b97322f592b81a3bec10291c8754"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_0.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_0.png"
 hash = "569804bba8091a57b87f750cf00914490c26f17e2acc741a9a714521ded6cd1f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_1.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_1.png"
 hash = "848f1955d8924d559e0940bf346908ade07a6f56bb13b9e25dd01119c312b6b9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_10.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_10.png"
 hash = "cbd98a69a2feb0d0917382ff902f9e61c2a4bd8cd297c6a03505422bc3f9f3b9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_11.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_11.png"
 hash = "c770a4b9bee78049896155e918f8f70fd93e7e294a08599bdf4e687faa6a6fed"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_12.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_12.png"
 hash = "24a3708586767dcb7e9bd38c4e39f1be6522e758fb6328099f07adb105a1a935"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_13.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_13.png"
 hash = "ea90f654d5fbd43146e9eefb3dd6cd5184b4fdd072ad20abb7e5f488eb1ac349"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_14.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_14.png"
 hash = "889d6d246eb05de467d9ce3715c9f813e3344d21f874bacccc7a1877a7f51ecd"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_15.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_15.png"
 hash = "566bf07b961b01a1a151ae72a70f27f7bfad5e785f36ac48de7c1eb655d577cf"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_16.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_16.png"
 hash = "a6adba30cc379066e6d66163e7494bd0392ed43b3e3d83cb865be8102273936d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_17.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_17.png"
 hash = "546c7f6c6d55d316c46a95bf2fcd2d20fa7d10ded386c293a90d9ff930622e3f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_18.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_18.png"
 hash = "168242549f3c2ce5edf46bc4d8671e9aed3cb7506fe454c746575f04a1daa8f8"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_19.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_19.png"
 hash = "0b99c2d54d8d540a496f416aad5701493f4c9c887600b0f46940736d2287e351"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_2.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_2.png"
 hash = "2cb16a54d51b7f490ba29ca4782ba744b1c6d2f440a50d84ba6b97ff444a24a5"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_20.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_20.png"
 hash = "f7507844f7e5da19541da7155f94f9a1df633ea60ddc513c061103efa7155f96"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_21.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_21.png"
 hash = "2077849402a1a9ca6b961f15386dbb181733746f601063473aa7a9cc70381a75"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_22.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_22.png"
 hash = "3e6ce1145e6224077aabfb52794ac275263fbbeeb80a1bb88b159db1925019cf"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_23.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_23.png"
 hash = "962512c4eda7ca917a6e69787c315b0e048c140df35aac4f2c65fd6e8dfea24f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_24.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_24.png"
 hash = "9c10820d0ca7062d926e8c0174cf4dd3cc0540693219c4e1a3967d543d0bbba3"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_3.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_3.png"
 hash = "321f6ac5d8ca31f444bcbe55ab5fb1c401435eb80fd9b270a4d4289dcaaf106f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_4.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_4.png"
 hash = "b3abb560f4e51e22f8300c5c7d39c27ba17c7579393ffdf799beb082c17af864"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_5.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_5.png"
 hash = "7c05f8cfd78f5e47f903c4f260e02b24b574d7600dcb1cb27a37c16589c171ac"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_6.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_6.png"
 hash = "34e6c2b239914a856650efcc22441fada11a3b013e172971e52df9d0db499f8a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_7.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_7.png"
 hash = "1d10497c4a24a614fbe055b6176d52f9eb45e3ada7c4d965fe2f0a1470fd614a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_8.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_8.png"
 hash = "e422cfa116906b50fb5b4ebd6c480d2b4d6233dfe332f3d24c3db3c22e0495dd"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_9.png"
+file = "kubejs/assets/minecraft/textures/block/note_block_pitch/pitch_9.png"
 hash = "0569fe3a0e6289a8f496e673eb707edaf053eda71f0fa98a54ac3d7398a334fc"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/oak_leaves.png"
+file = "kubejs/assets/minecraft/textures/block/oak_leaves.png"
 hash = "a388d89b84107acc9654c1f28d36e3dbe04d4245edab6cb16bdaa60373d1340d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/observer_back.png"
+file = "kubejs/assets/minecraft/textures/block/observer_back.png"
 hash = "fba67e5afac02ffb66b715e0c1c54b157dd02f7c927bb80768a14abb739c5b7e"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/observer_back_on.png"
+file = "kubejs/assets/minecraft/textures/block/observer_back_on.png"
 hash = "11ba461422fabcff1bf67879b513086837516379d299e6e027d1594b6a44dfd9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/observer_front_powered.png"
+file = "kubejs/assets/minecraft/textures/block/observer_front_powered.png"
 hash = "4748e032606d87f7559b2f07c64f3034aab39a3821445ea7e1872ea83598235a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/observer_side.png"
+file = "kubejs/assets/minecraft/textures/block/observer_side.png"
 hash = "721ccfb5cbf9b34646d90f7c0f2290a36404db11b1f6fe294152aaf55a3fb0d6"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/observer_side_powered.png"
+file = "kubejs/assets/minecraft/textures/block/observer_side_powered.png"
 hash = "7db1854f195e3c83eca4b0f2378798b2d3d9c3f3e6f399f9f002c7a7756cacdf"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/observer_top.png"
+file = "kubejs/assets/minecraft/textures/block/observer_top.png"
 hash = "8ae4b1885740740cb1aa546284130d03104281751206d56ddba2622fd854efc0"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/observer_top_powered.png"
+file = "kubejs/assets/minecraft/textures/block/observer_top_powered.png"
 hash = "00e0bce07e1599ddb19a09b60a2fc508495fa48bd8ce893da0df27bb58db3454"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/piston_bottom_sticky.png"
+file = "kubejs/assets/minecraft/textures/block/piston_bottom_sticky.png"
 hash = "16171cb8fa35076860febfc9b62385f03efcd3bf4e5572de82195eb614c9ae39"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/piston_side_sticky.png"
+file = "kubejs/assets/minecraft/textures/block/piston_side_sticky.png"
 hash = "4d0881e15b5676d583de28b3e0b9fd17aff95d265292e706843d135e85f3d15e"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/powder_snow_cauldron_side_level_1.png"
+file = "kubejs/assets/minecraft/textures/block/powder_snow_cauldron_side_level_1.png"
 hash = "e22a68c7d6b8505fb5b64f1c995ccd76f634343346ba6011505550b46fdbad95"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/powder_snow_cauldron_side_level_2.png"
+file = "kubejs/assets/minecraft/textures/block/powder_snow_cauldron_side_level_2.png"
 hash = "326ae6ce61b01da8f8d91bde9ec115e3727c5faf1023b9f4278baaf516970f8f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/powder_snow_cauldron_side_level_3.png"
+file = "kubejs/assets/minecraft/textures/block/powder_snow_cauldron_side_level_3.png"
 hash = "97e57d316bdf87016cd475453dca36a8d3091619d3d4e31eda394e3bf12617d9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/redstone_ore_off.png"
+file = "kubejs/assets/minecraft/textures/block/redstone_ore_off.png"
 hash = "bdf2fa159a9494f56a98f5221181e4077346d8a509a1e72dbc8328f0e9725b78"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/soul_fire_0.png"
+file = "kubejs/assets/minecraft/textures/block/soul_fire_0.png"
 hash = "394da743dcad6ac3cef9b77b01bbc136e61a9943a8661a9d2454d91a7adbd8ec"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/soul_fire_0.png.mcmeta"
+file = "kubejs/assets/minecraft/textures/block/soul_fire_0.png.mcmeta"
 hash = "658d67c1b3206e23a401d04ec196512b72702b7b8c6fa0200c6c66250529bbbb"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/soul_fire_1.png"
+file = "kubejs/assets/minecraft/textures/block/soul_fire_1.png"
 hash = "3768e478f17c1114772e7ec7d0e8259d623267fe5071f174e5ea0a8bac4875af"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/soul_fire_1.png.mcmeta"
+file = "kubejs/assets/minecraft/textures/block/soul_fire_1.png.mcmeta"
 hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/spruce_leaves.png"
+file = "kubejs/assets/minecraft/textures/block/spruce_leaves.png"
 hash = "05b1b69f24354cab1025da77f8f16abc20e5dd1991705345bb86db32dddbd67b"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/tall_grass_bottom.png"
+file = "kubejs/assets/minecraft/textures/block/tall_grass_bottom.png"
 hash = "9d9decc50519c80ec42d4d16ec498f502886ba9c634edc898e068f3adc9393ad"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/tall_grass_top.png"
+file = "kubejs/assets/minecraft/textures/block/tall_grass_top.png"
 hash = "d3f9b8f04b6aa791fa76c9abbf63131af140923456fa0212f300f8ae48b2e97f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/water_cauldron_side_level_1.png"
+file = "kubejs/assets/minecraft/textures/block/water_cauldron_side_level_1.png"
 hash = "510bc69a8f72b6ef8efc1ef81b372e423ac74b3c1077f5bd68fe911435d2c02f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/water_cauldron_side_level_1.png.mcmeta"
+file = "kubejs/assets/minecraft/textures/block/water_cauldron_side_level_1.png.mcmeta"
 hash = "25164b6629bf305a0136d5a70be7cb4b1e53def0b65cddd6a2f1b5a3ec4b3020"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/water_cauldron_side_level_2.png"
+file = "kubejs/assets/minecraft/textures/block/water_cauldron_side_level_2.png"
 hash = "8a4dd3044052b7045c967fff05bd33530796405e57d3b2e507e6a4522c50d869"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/water_cauldron_side_level_2.png.mcmeta"
+file = "kubejs/assets/minecraft/textures/block/water_cauldron_side_level_2.png.mcmeta"
 hash = "25164b6629bf305a0136d5a70be7cb4b1e53def0b65cddd6a2f1b5a3ec4b3020"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/water_cauldron_side_level_3.png"
+file = "kubejs/assets/minecraft/textures/block/water_cauldron_side_level_3.png"
 hash = "d6f4d2237a0167683b5e707d36d578de49f2eaae6fca6f5bcf758dffdca9d3cf"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/water_cauldron_side_level_3.png.mcmeta"
+file = "kubejs/assets/minecraft/textures/block/water_cauldron_side_level_3.png.mcmeta"
 hash = "25164b6629bf305a0136d5a70be7cb4b1e53def0b65cddd6a2f1b5a3ec4b3020"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_copper_block.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_copper_block.png"
 hash = "11bfb4540fa408f4a2c27ee69996d7b275918291c9e51b4ee8d90348180e57ba"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_copper_double1.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_copper_double1.png"
 hash = "2710ae636e285664b896411178d2569c1d1932da234536d81801b899c743345a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_copper_double2.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_copper_double2.png"
 hash = "f36e94563be0afd68ec8f0ca379caa607874720d98192a9f6c1a5aee0bfb531d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_copper_stairs1.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_copper_stairs1.png"
 hash = "4127b386d13a61d24611baa3c9b42b000afc1b896e18bb1eacfbc174c69a0eb1"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_copper_stairs2.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_copper_stairs2.png"
 hash = "974d5890bfe1e8b22b0a2dcc3b4b6b3d001d76d12f3cb887cd3c9504040fed6e"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_cut_copper.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_cut_copper.png"
 hash = "24f7e6fff7202d96065f43b6718d87d418240eb712140acd6758a4f36012d9a8"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_exposed_copper.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_exposed_copper.png"
 hash = "c09a4a4865abb3ff0edea3dd0b743aad38c5760648debb9c0508dc4482ab63ee"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_exposed_copper_double1.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_exposed_copper_double1.png"
 hash = "74f1526444893f324e09d28767c8e577882283d1f068bacb9d9399d6f81afc57"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_exposed_copper_double2.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_exposed_copper_double2.png"
 hash = "a6aae025e9ddd9d70a0f93de922c96c8a24d4a06626c8de2e9edf8426ca7463c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_exposed_copper_stairs1.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_exposed_copper_stairs1.png"
 hash = "7c45e6f022b6270aaaf724ab3a3eaf848ca9f5ae673cab00b92ba32b55b707f6"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_exposed_copper_stairs2.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_exposed_copper_stairs2.png"
 hash = "4177ca10340f351ee163b0c8f42c6778231e7090b99d8d08d04c2b8960399ba7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_exposed_cut_copper.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_exposed_cut_copper.png"
 hash = "ec45de0d976ed739219552caedf63b70a109e3afce98036b790b91d50fd16c99"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_oxidized_copper.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_oxidized_copper.png"
 hash = "460bc57372cac45a89f585570ad4055156aac154729bdc7f1d8a77363ba27dff"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_oxidized_copper_double1.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_oxidized_copper_double1.png"
 hash = "ac759d0ab96531cbaef33636c0b154d6816e6444e1ae62536ed8c0e549237a8f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_oxidized_copper_double2.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_oxidized_copper_double2.png"
 hash = "cc3719865aa40b74f4e7cfa92d5b7273bb4c08bde25dd6e16d174ea5b5c46ef0"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_oxidized_copper_stairs1.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_oxidized_copper_stairs1.png"
 hash = "687b2a8261165532b8287071792993f6c008eaec601ad5fdfc6b702a9e5aa81e"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_oxidized_copper_stairs2.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_oxidized_copper_stairs2.png"
 hash = "7089f441ea0a129591aed05f528490f96550c81c744e0f414433027455d65343"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_oxidized_cut_copper.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_oxidized_cut_copper.png"
 hash = "a937649cb1e19dbf6de43798f2daa03c947776c3c2577aaf4d9d3f7faf755e00"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_weathered_copper.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_weathered_copper.png"
 hash = "d47710808a70cd943ab03280932214790e5a3c9f519bba7df9e63995ddd3e2fe"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_weathered_copper_double1.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_weathered_copper_double1.png"
 hash = "56977edaf8ef96a6aca01dad416993a255acf83795a07a2139569a2cb9aaacdf"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_weathered_copper_double2.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_weathered_copper_double2.png"
 hash = "fc20440308382a463711ac566f914c325f922a3a79f05f0d6e44b4b3b919911a"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_weathered_copper_stairs1.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_weathered_copper_stairs1.png"
 hash = "49d35817b31eafad88f3979ef750b49112fea44a25a9507835b182d9a46d151b"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_weathered_copper_stairs2.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_weathered_copper_stairs2.png"
 hash = "359b86fca65a7749b8d7a8749ab5769949a8880b0f7101a26cc8f32b60841bf8"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/block/waxed_weathered_cut_copper.png"
+file = "kubejs/assets/minecraft/textures/block/waxed_weathered_cut_copper.png"
 hash = "63c63a593ea23c8642c0f9ae133c139780a0e842031afffe4c32bcd40e4e5cd9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/end_crystal/end_crystal.png"
+file = "kubejs/assets/minecraft/textures/entity/end_crystal/end_crystal.png"
 hash = "1e2c954a108ca286f9231ca243d6d08a320ccd911b10cfb6266551411d9bd6b2"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/projectiles/arrow.png"
+file = "kubejs/assets/minecraft/textures/entity/projectiles/arrow.png"
 hash = "d57bd92ce76491b59ff41ea81c81a64cffe8d56fb988856ecc72c167c582e644"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/projectiles/tipped_arrow.png"
+file = "kubejs/assets/minecraft/textures/entity/projectiles/tipped_arrow.png"
 hash = "d8cc14340060d16e38e6a3ff518824e2e53d21d4b50fa1aa894e0f88aeb69f97"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/base.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/base.png"
 hash = "9bf8790c92a7d5bdabb593b8f651f9545e11d93e5f13ae2250ca5960a601de52"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/border.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/border.png"
 hash = "c9015910edcafaad05d8a9cbae53fe32959e249eb9144102906a21475d2fbfe8"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/bricks.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/bricks.png"
 hash = "a76c4ddb245e064080b0cee9f711be28ff9a6567953ece83a4b7cdb3f71e63cb"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/circle.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/circle.png"
 hash = "277246b0fb56605165e30381d0dbb3e1371d5a21a7b9a41ab11b25a411af7eff"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/creeper.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/creeper.png"
 hash = "964ccb0471f4015bcd8f47197d854f775ad9aaf97d73f9c9ba3b3ec0ea77a0ff"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/cross.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/cross.png"
 hash = "d8ccf47666733fcca3248898b09eb5784851719d3a4b2bcf1f6be2e2d6394520"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/curly_border.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/curly_border.png"
 hash = "3fe479de708f46d8037ffa291cf6ef8fa6a7dc6bcd2b7facb885c93f79239f13"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/diagonal_left.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/diagonal_left.png"
 hash = "bd566379ffc78835c40501660ec2fd96d6c2cfd5cbb618cf6afcd96c5960f581"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/diagonal_right.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/diagonal_right.png"
 hash = "9c3123893f29c7ed3f356712e628e47be1f8c020ed9bca349d42da50f11ee5d0"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/diagonal_up_left.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/diagonal_up_left.png"
 hash = "de7da5d2d247ba122e72baa050cf4c730bf1f708f4154f0ed0bf6f6638c566a6"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/diagonal_up_right.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/diagonal_up_right.png"
 hash = "281bdf35e040fc95918c9784a06eff89a5ef5705d5aca4024d09de3355dba166"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/flower.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/flower.png"
 hash = "2ba3fe9f04f4d79226e20da3944acc728f181da1a4a90152a9b3de80383b2dd9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/globe.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/globe.png"
 hash = "1fb54e89c5d802c0a9a3a26e65f435300da071ba77e7519c3dab7225a1712f50"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/gradient.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/gradient.png"
 hash = "f6b08743d413ccab9ab00874d91c64e695688998bcafffe871473faaff1a50c9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/gradient_up.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/gradient_up.png"
 hash = "9c1be1518248c3d442c47ed6b05232cccfd348154cedf2706e4611362b15dcd2"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/half_horizontal.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/half_horizontal.png"
 hash = "d5dfe5938bfea192e73603e485fff3fca85037ab30ebd512b9e7777fc07f8e16"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/half_horizontal_bottom.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/half_horizontal_bottom.png"
 hash = "7422676d53db30874ed05cd52e1849c184cdcf7c78c6774e4a32767da259d178"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/half_vertical.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/half_vertical.png"
 hash = "a6081101cdb28716eaf55a28660115bedc99027ee8571b9bfb0e438313a881dd"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/half_vertical_right.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/half_vertical_right.png"
 hash = "4fcbcc483c45421155d803c9fee63e795c8d5a396316cf103e1a2b940b28da33"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/mojang.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/mojang.png"
 hash = "4ae249a8427cb45ce2c47e2972cbdca956f27763b6759adc0cdbc0f75d6621f5"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/piglin.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/piglin.png"
 hash = "f04f80c22e15fb09e79755b1e1baa9ed16ec1bddad71fd8151582f4d58ef744d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/rhombus.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/rhombus.png"
 hash = "a20d790c6d3743eddfa08e82a59ccb2fafdb09ea3e4b80a56ce6d3e3632e6459"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/skull.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/skull.png"
 hash = "932a021413e5e4042a0e1f10a5b047b3ae58cccd95dbddb98fff287d186bc1b9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/small_stripes.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/small_stripes.png"
 hash = "77c36694334b9ab304c468428150f952e7c66d205260cecbc69a94ece978e6f0"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/square_bottom_left.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/square_bottom_left.png"
 hash = "a7fcbed0c9126814f0b1c9b2e7663a7a25ad9282a4ea1238c10736558306d6d4"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/square_bottom_right.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/square_bottom_right.png"
 hash = "eb853b407964216fd2bef0b1cb694e9f3e38ac3003799737b09a5d9f8d50978b"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/square_top_left.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/square_top_left.png"
 hash = "4f93b94270581bb2722155ea075c69bdead298ebde8524d59bc82a900e57d3f8"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/square_top_right.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/square_top_right.png"
 hash = "dba2d26c7d6484b1fcbf181291bcef0832397a3a0b1866bc40e6b97575f1ab15"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/straight_cross.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/straight_cross.png"
 hash = "326d626f4e5153304e25fbf490bd2c72dc347bb8801ee54ac20cb4d83be60790"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/stripe_bottom.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/stripe_bottom.png"
 hash = "f5d9d2d0a894e559a814ef4717294f19b30f4899751a0ef8bc041acd4fbfb8e9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/stripe_center.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/stripe_center.png"
 hash = "70d1423ab88c60365aa083681ced350336d32f23c8355354c64f23b3029606d3"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/stripe_downleft.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/stripe_downleft.png"
 hash = "102205a5ad73e8df0ec56376b3d5d346712528660731727601e06025c6b4f567"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/stripe_downright.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/stripe_downright.png"
 hash = "4c03b6f059c9dd4eb819d22f8cfc3d1b343ac0c7708990a03f78dbc84754fff1"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/stripe_left.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/stripe_left.png"
 hash = "d2d9d188874bbc9e8d6c0e9d7782171286c8a014cf9cd07b6a2a86ff05bd9ee7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/stripe_middle.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/stripe_middle.png"
 hash = "a45978fc937820c40950b50239e45c10e169efbb587cb813598e1d74ea30d00d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/stripe_right.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/stripe_right.png"
 hash = "5529c4a2c4431f691c86661596b0bd61dc3cb6b18732eb10138a766794cedbdd"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/stripe_top.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/stripe_top.png"
 hash = "cfea80424aed91ed37a8f2d58da0634e810703fa7b94b8bdb4eb8b7f634e7f67"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/triangle_bottom.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/triangle_bottom.png"
 hash = "0a1c49c8f297fa07b7b1850937659406ab2933a22be1f176c6ca198884c6a131"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/triangle_top.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/triangle_top.png"
 hash = "a1f61025284cf3ecef65be9fc9f3f328dfcd04a5c39d025e85eb8d10f93d8df0"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/triangles_bottom.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/triangles_bottom.png"
 hash = "aaec7412573befc347a7292060083e056d2827c399697a77e4b987154b6f7e41"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/shield/triangles_top.png"
+file = "kubejs/assets/minecraft/textures/entity/shield/triangles_top.png"
 hash = "afda18654cc0f106e5187e10883b76761b54199a3c87c136ec52d20011d9d400"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/acacia.png"
+file = "kubejs/assets/minecraft/textures/entity/signs/acacia.png"
 hash = "023c403253022be51988bdfee9219b3d0646c8ce5c41586bed867c85a88293b8"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/birch.png"
+file = "kubejs/assets/minecraft/textures/entity/signs/birch.png"
 hash = "a1608fd10142ef38f23d45285cf6d56b7f972478ca4b59995b20533374d04c00"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/crimson.png"
+file = "kubejs/assets/minecraft/textures/entity/signs/crimson.png"
 hash = "a9e878ee0862e1ac782c3f5bf36d7487ce228347f1cb4ee207e03ee4990b2b86"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/dark_oak.png"
+file = "kubejs/assets/minecraft/textures/entity/signs/dark_oak.png"
 hash = "8616b35a592a1f7f1663dd4a40b55bee2f80aef6f5ed937d63db1a8ddc228302"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/jungle.png"
+file = "kubejs/assets/minecraft/textures/entity/signs/jungle.png"
 hash = "dcf104dcf09c7431bdcf37f54a2e1e610ae71502cf27ec544a1c5f974f2de5bd"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/mangrove.png"
+file = "kubejs/assets/minecraft/textures/entity/signs/mangrove.png"
 hash = "fceee3af0a19ab07716d125472e908c6e7a2c99f5dd38c55918cbd807ae9f5ac"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/oak.png"
+file = "kubejs/assets/minecraft/textures/entity/signs/oak.png"
 hash = "d414c742565bde9d7e326935feb650d90fb5a1325a974e2c11ce9a7c3517f7ac"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/spruce.png"
+file = "kubejs/assets/minecraft/textures/entity/signs/spruce.png"
 hash = "09507172c32b25a87b75047c1c2f8e90292c684b84b91faafef67636926c512e"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/entity/signs/warped.png"
+file = "kubejs/assets/minecraft/textures/entity/signs/warped.png"
 hash = "ce8e80917738c6c22858aff547786056b583105616c776dc396254357e2e9cc9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/environment/snow.png"
+file = "kubejs/assets/minecraft/textures/environment/snow.png"
 hash = "a117e2043c34e5e06828715cd96306e884c78bb31f4475a264e684a8e5a6d49b"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/container/stats_icons.png"
+file = "kubejs/assets/minecraft/textures/gui/container/stats_icons.png"
 hash = "c47c21946c9d4670b770cd1a5cb1c6e3da1f9cf4504f288ba789a2c41fd302bf"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/icons.png"
+file = "kubejs/assets/minecraft/textures/gui/icons.png"
 hash = "8d6c38a947a5b5e7303adb9b49687e7ee498171bd0c90168c165b511bb14a580"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/options_background.png"
+file = "kubejs/assets/minecraft/textures/gui/options_background.png"
 hash = "fcba18a824b979157ccce4075b5bc26fd5c4dda6bc0003fc691ae7012856ba22"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/spectator_widgets.png"
+file = "kubejs/assets/minecraft/textures/gui/spectator_widgets.png"
 hash = "1c24d56cb88dd799ca0a6ca60953d8b778537881cd2b6ae37afeb19f455f93a2"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/title/background/panorama_0.png"
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "ad99256094fc87a1b0a34c72617bc3ab7241f44ef2e3bec78bd9c6a498ca9815"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/title/background/panorama_1.png"
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
 hash = "4a4e5fd854d2275f3ae12e10041123bb0c0829240e58c0acfa62b1bf029da0a9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/title/background/panorama_2.png"
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
 hash = "356823563849856c9cbefab27b8c99d218426856598739f07cf8ae51f63067de"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/title/background/panorama_3.png"
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
 hash = "d66047d149e77d857ab8e2ed72efda866cd8a1c040d69ebf1766410acf9d0ba7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/title/background/panorama_4.png"
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
 hash = "e277d7b28a45edc1eccdeb2c10c3aa6430bc017999e21e5aa84f8074b9117852"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/gui/title/background/panorama_5.png"
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
 hash = "79f7f5dff323847d4ee6bfda7568aaca86f056d810a4812cbeb2ebeb8619f2da"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/arrow.png"
+file = "kubejs/assets/minecraft/textures/item/arrow.png"
 hash = "327878e389abeae55bb8655d98e838cabcdb24af9d2eda1a3f2cb40549dc66b3"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/black_bed.png"
+file = "kubejs/assets/minecraft/textures/item/black_bed.png"
 hash = "e04fa131e5df7b68f4b4b044a75dce5f49f17d7490b413ddbec81acda8a7037d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/blue_bed.png"
+file = "kubejs/assets/minecraft/textures/item/blue_bed.png"
 hash = "1552d8751cab691f151e9097473763ec8c951b03e17cb45302dfed5486f0df53"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/bow_pulling_0.png"
+file = "kubejs/assets/minecraft/textures/item/bow_pulling_0.png"
 hash = "1dd2f05df2af99724fb1293122bc76f69851d3ab3effa7f6c61f8b925b8b1f53"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/bow_pulling_1.png"
+file = "kubejs/assets/minecraft/textures/item/bow_pulling_1.png"
 hash = "38992360a5867aa6e4d9264b6cc1dbe7dd69ffbf871113cc49728e0e6d7d67b4"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/bow_pulling_2.png"
+file = "kubejs/assets/minecraft/textures/item/bow_pulling_2.png"
 hash = "e748c1a2e70a1615ba74a717dac2d2023c41943551090faf1505f273fd0c7d82"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/brown_bed.png"
+file = "kubejs/assets/minecraft/textures/item/brown_bed.png"
 hash = "90b3fe8a3b216f3586b86afe00f8145bf8f2a9f45c459ee346e071b435e4148e"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/creeper_banner_pattern.png"
+file = "kubejs/assets/minecraft/textures/item/creeper_banner_pattern.png"
 hash = "b2cb93554810fd591bf2f32e88fd5a6f0382fc165ef6959d8718499f01a69ff7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/crossbow_arrow.png"
+file = "kubejs/assets/minecraft/textures/item/crossbow_arrow.png"
 hash = "b009339ec9eddb7b047853b96f08c708ef81304d5ebaa80f322ace09d0c44c98"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/cyan_bed.png"
+file = "kubejs/assets/minecraft/textures/item/cyan_bed.png"
 hash = "9a515cc9773cfc2bd419cbeec24be1e6eba534aa3f729e0789ea3ff7277a3bf3"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/experience_bottle.png"
+file = "kubejs/assets/minecraft/textures/item/experience_bottle.png"
 hash = "76dea2f5144eb6a995e62adb8c2ad11f533827f653234a7fb77d4bedd9586429"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/flower_banner_pattern.png"
+file = "kubejs/assets/minecraft/textures/item/flower_banner_pattern.png"
 hash = "8708e99ecc76f8ace115e16e4f334e5a6538075c39c08bb890afcf06ff671815"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/globe_banner_pattern.png"
+file = "kubejs/assets/minecraft/textures/item/globe_banner_pattern.png"
 hash = "d23d54b4128cd823c4e398c4786a4861d9fccbc642606fd3ce89a3f4ef7689c5"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/gray_bed.png"
+file = "kubejs/assets/minecraft/textures/item/gray_bed.png"
 hash = "8ddfec3583bc4412ad4bb62c7b9cacbb585212ac2d7358f51e25cfe96321f3cf"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/gray_dye.png"
+file = "kubejs/assets/minecraft/textures/item/gray_dye.png"
 hash = "34110d5d6e35c783d10f088dffe4a05dceafc29acd70206ff71f74f2527cb27f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/green_bed.png"
+file = "kubejs/assets/minecraft/textures/item/green_bed.png"
 hash = "2f49b19ae491ae8e8d51c38dd63036ffdf01567f34c1e00c0f6133a3b55d83f3"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/infested_chiseled_stone_bricks.png"
+file = "kubejs/assets/minecraft/textures/item/infested_chiseled_stone_bricks.png"
 hash = "594cfb998cbd1a7483e76f3ffbab625b6e15ebde6a8bcb2c2574516571c528fe"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/infested_cobblestone.png"
+file = "kubejs/assets/minecraft/textures/item/infested_cobblestone.png"
 hash = "69d48c157775d0c235dfa528b739f300f2fb835ce203f886f7fd29e312fd8cd9"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/infested_cracked_stone_bricks.png"
+file = "kubejs/assets/minecraft/textures/item/infested_cracked_stone_bricks.png"
 hash = "c9bdce7a533b98a5132a623e52ac9e714117883ebfe6c473eb723bddb49574e3"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/infested_deepslate.png"
+file = "kubejs/assets/minecraft/textures/item/infested_deepslate.png"
 hash = "558d40b706394e483813d0f8fc64e94082f6e95174897cab8b0f6418e4e13746"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/infested_deepslate_top.png"
+file = "kubejs/assets/minecraft/textures/item/infested_deepslate_top.png"
 hash = "7db4cfcc25da32e22a95b6e6b21e45aedf50062cc16d9c2e6342e5754b0561ca"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/infested_mossy_stone_bricks.png"
+file = "kubejs/assets/minecraft/textures/item/infested_mossy_stone_bricks.png"
 hash = "87ba8e6dbc8e5a95f995a95e26f21baeb68b6d6168a68a8c91a512f74b84a1e2"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/infested_stone.png"
+file = "kubejs/assets/minecraft/textures/item/infested_stone.png"
 hash = "b61f07ecd9320f42cc7d02a509b1eec537178e4ac0cdd9df09aaafea9fd5c28b"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/infested_stone_bricks.png"
+file = "kubejs/assets/minecraft/textures/item/infested_stone_bricks.png"
 hash = "1285e7ace5956bc388479a0cad0198a082872e68b59daa339c816c3880cdc20f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/leather_boots.png"
+file = "kubejs/assets/minecraft/textures/item/leather_boots.png"
 hash = "3650544c11a228361c345af47c33fbd443b7cea570d5afac042428eaac369633"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/leather_boots_overlay.png"
+file = "kubejs/assets/minecraft/textures/item/leather_boots_overlay.png"
 hash = "1ca22bcefe2c81454a7eef5eb53efe92e16d476254d99d1094937a2f8ca52bc6"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/leather_chestplate.png"
+file = "kubejs/assets/minecraft/textures/item/leather_chestplate.png"
 hash = "f4388ae2703b5eb9139d965c242289da09d6b26c8025d67a148dfd03597271bb"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/leather_chestplate_overlay.png"
+file = "kubejs/assets/minecraft/textures/item/leather_chestplate_overlay.png"
 hash = "1ca22bcefe2c81454a7eef5eb53efe92e16d476254d99d1094937a2f8ca52bc6"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/leather_helmet.png"
+file = "kubejs/assets/minecraft/textures/item/leather_helmet.png"
 hash = "d1dc8d21cd4decf5366351c15366f2a79eb4ee55a43683e97da28a166b361548"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/leather_helmet_overlay.png"
+file = "kubejs/assets/minecraft/textures/item/leather_helmet_overlay.png"
 hash = "1ca22bcefe2c81454a7eef5eb53efe92e16d476254d99d1094937a2f8ca52bc6"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/leather_leggings.png"
+file = "kubejs/assets/minecraft/textures/item/leather_leggings.png"
 hash = "0abb686bd826b68a69f3975bce569ca4003c36b24464baa7a54427ff9e88c220"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/leather_leggings_overlay.png"
+file = "kubejs/assets/minecraft/textures/item/leather_leggings_overlay.png"
 hash = "1ca22bcefe2c81454a7eef5eb53efe92e16d476254d99d1094937a2f8ca52bc6"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/light_blue_bed.png"
+file = "kubejs/assets/minecraft/textures/item/light_blue_bed.png"
 hash = "d2847d833975e8c23768b36c4632d10508a9a56679bcd974a6357a150f899fb7"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/light_gray_bed.png"
+file = "kubejs/assets/minecraft/textures/item/light_gray_bed.png"
 hash = "583f78ad3002e9022e8d3e9e47edfc258bbfdeb7f31614dc3f9eb7a3af84520c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/lime_bed.png"
+file = "kubejs/assets/minecraft/textures/item/lime_bed.png"
 hash = "199e871b034bd1b9ec52a668bc8f95d9bedae3a8f16906644b0661ba12c0be13"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/lime_dye.png"
+file = "kubejs/assets/minecraft/textures/item/lime_dye.png"
 hash = "f20087b0b883c656c0d81daf6b52eaf62d55ca0d9294b2011f035e594635816c"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/magenta_bed.png"
+file = "kubejs/assets/minecraft/textures/item/magenta_bed.png"
 hash = "9855ad756632b5e6eec851c30c197190983e957a9cdf59a2aaab339df5931df0"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/magenta_dye.png"
+file = "kubejs/assets/minecraft/textures/item/magenta_dye.png"
 hash = "d779f7ca10e28b97108bd93a3d404e04daab925aae85fca4c19cec4be3c8b356"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/mojang_banner_pattern.png"
+file = "kubejs/assets/minecraft/textures/item/mojang_banner_pattern.png"
 hash = "b7e048b518588004b025a0d7db40b54dc8c731b7c5eb8fa7525e2c259d0926fc"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/orange_bed.png"
+file = "kubejs/assets/minecraft/textures/item/orange_bed.png"
 hash = "77724ff8e93364113b99f01bc21e7de68c779abb68547af7b34a2a1d3308fa53"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/piglin_banner_pattern.png"
+file = "kubejs/assets/minecraft/textures/item/piglin_banner_pattern.png"
 hash = "42a4b919cb7e243102b6c19f5c4bf61cba01e214f0e8a33971d1d6d1b064900d"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/pink_bed.png"
+file = "kubejs/assets/minecraft/textures/item/pink_bed.png"
 hash = "e770deca9c3ee0677fedcf4d40bc8ece753f95783860d2aead70130a4ed1e271"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/pink_dye.png"
+file = "kubejs/assets/minecraft/textures/item/pink_dye.png"
 hash = "e7bf14eb134fe198f2f524f3a26a2cfc35eab6b96d22a2e2fb706cd50e043bcd"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/purple_bed.png"
+file = "kubejs/assets/minecraft/textures/item/purple_bed.png"
 hash = "045d105d46a95d4434fd9d8141a7fb3cd6951a075f01f4682b4e71025bad0894"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/purple_dye.png"
+file = "kubejs/assets/minecraft/textures/item/purple_dye.png"
 hash = "f5832c6a644a31efe72955f5c4be3d34a2acd400f9a662bde9b3cb1309f6b905"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/red_bed.png"
+file = "kubejs/assets/minecraft/textures/item/red_bed.png"
 hash = "96373992affe1f2c8545515b89cdb3074fb58f154819e081b3222154cf4df283"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/skull_banner_pattern.png"
+file = "kubejs/assets/minecraft/textures/item/skull_banner_pattern.png"
 hash = "e6c97491810bf241dbfbf24e5a239517f286882a8e00bef6c739afe003bb731f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/tall_grass.png"
+file = "kubejs/assets/minecraft/textures/item/tall_grass.png"
 hash = "954f9acd42422dc086285c214b9b6670bddb4f7fedb1237a4a99488ca42fa34b"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/white_bed.png"
+file = "kubejs/assets/minecraft/textures/item/white_bed.png"
 hash = "6dbda8afedf22afd9e6b0f34474c7c5d69fea3dc387b5bec4fe8cbb58b70f878"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/item/yellow_bed.png"
+file = "kubejs/assets/minecraft/textures/item/yellow_bed.png"
 hash = "61196a2d1ce5d388c1581b463be0abe82f5803281303f77f57da338719cc4f51"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/misc/pumpkinblur.png"
+file = "kubejs/assets/minecraft/textures/misc/pumpkinblur.png"
 hash = "0969ba28b683b151149758285bd4a60fa8e20ff590432118ba66c5657a71ceea"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/models/armor/leather_layer_1_overlay.png"
+file = "kubejs/assets/minecraft/textures/models/armor/leather_layer_1_overlay.png"
 hash = "136c3eac790d9908fb2e7d0fda3259dbd41da67d890b29a4ed1e5032421fb9be"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/assets/minecraft/textures/models/armor/leather_layer_2_overlay.png"
+file = "kubejs/assets/minecraft/textures/models/armor/leather_layer_2_overlay.png"
 hash = "07f2c47fe92a165adbf0f8c75eee4c2470bd411b9acb99e99b6ef1d909e8174f"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/pack.mcmeta"
-hash = "ab0986208e0acd95d535bd6ba8d34b59393cfc86e67e5fb32a18f4aa21158243"
+file = "kubejs/client_scripts/script.js"
+hash = "f7534f18e0e6a728766a0f7464a58198c8995a2f330d8767737f71575da38693"
 
 [[files]]
-file = "global_packs/required_resources/vanilla_tweaks/pack.png"
-hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+file = "kubejs/config/client.properties"
+hash = "14babc947b980980fcf83f5e61a42315e27088a8495329aa830a183402e051a9"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "9fc9f0e2e6588924f6b3a119ab2f828f2011dc6977ff834b08b6ed89215b39ca"
+
+[[files]]
+file = "kubejs/data/factions/functions/load.mcfunction"
+hash = "c04a04a1968083bcf7346ca3cd182d8d608d5e1a93e028d8041296037671019d"
+
+[[files]]
+file = "kubejs/data/factions/recipes/coarse_dirt_crushing.json"
+hash = "0e371bc5ba73307d8da9b26cbaf58c3f7a5a4c6473102cbaeb48b158064de849"
+
+[[files]]
+file = "kubejs/data/factions/recipes/coarse_dirt_shapeless.json"
+hash = "b890f41f3e387fe3bb264de879d2fc126d5852a13b588322f028da5428a9e368"
+
+[[files]]
+file = "kubejs/data/factions/recipes/cobble_to_pebbles.json"
+hash = "b3dc8054fa67de665ba1d874470b24a0b17629e866373fca5291a9ec199a20ce"
+
+[[files]]
+file = "kubejs/data/factions/recipes/crush_snow.json"
+hash = "80ff2b74d44083d9c0f9d5e77d78ec40043224561e193ec1b66f22bcf1ae6478"
+
+[[files]]
+file = "kubejs/data/factions/recipes/name_tag.json"
+hash = "20f03a24cf25be656a3cbe0e3fbdefe081d69069d47ec9ee471e3a0aef48dbc7"
+
+[[files]]
+file = "kubejs/data/farmersdelight/weapon_attributes/diamond_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "kubejs/data/farmersdelight/weapon_attributes/flint_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "kubejs/data/farmersdelight/weapon_attributes/golden_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "kubejs/data/farmersdelight/weapon_attributes/iron_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "kubejs/data/farmersdelight/weapon_attributes/netherite_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/functions/load.json"
+hash = "ad2b9930908cbde85dac28dddb547624145b82a611b0ad80e25530d8f4e30430"
+
+[[files]]
+file = "kubejs/data/ratsmischief/recipes/leather_rat_pouch.json"
+hash = "ea0e0c6b06e72464cc2be1ae9a470bb692ea3dc282b05710c9babbfd5bd475ef"
+
+[[files]]
+file = "kubejs/data/simplechunkloader/recipes/chunkloader.json"
+hash = "7d83e23b39df0097f5d158ccbe9d17cb2041af8c5f0379eb8e8bb1ad9e2fe217"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "f295fe970d2da046e93bf00988494465edbe295006da364eefd8ef1ee78b47b4"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -1993,6 +1981,11 @@ metafile = true
 [[files]]
 file = "mods/better-beds.pw.toml"
 hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
 
 [[files]]
@@ -2131,6 +2124,11 @@ hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "6b6203af7dc03a920fb09c81f79340d9d6d1bc9a9f9c3682db49e3b085d54549"
+metafile = true
+
+[[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
@@ -2201,11 +2199,6 @@ hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
 
 [[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "d95e508337c913a6f339f08f8cb34a6b2500959204f7e742c49e26f93e0a8060"
-metafile = true
-
-[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
 metafile = true
@@ -2261,8 +2254,18 @@ hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6e06fcacd3d3b08a6623fb497876ea3028260379c64539fb8c82c251429e5f5d"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
+metafile = true
+
+[[files]]
+file = "mods/lazy-language-loader.pw.toml"
+hash = "f01bf757e33982d0fdefb583d4fbd7aee5fd5169cb4c69e2eaa6aba6c0ceefaf"
 metafile = true
 
 [[files]]
@@ -2303,6 +2306,11 @@ metafile = true
 [[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "63914b645092557cf4824cf3be35e71f5cf8b9345a1c45de27d5da13e97b48f4"
+metafile = true
+
+[[files]]
+file = "mods/moovy.pw.toml"
+hash = "e7a7a45ecb5727e47af4e118c66bd3cbde64ef03fd30001088e3f56cdcbe87b1"
 metafile = true
 
 [[files]]
@@ -2386,8 +2394,8 @@ hash = "b8a7848d058a838ed12889cc4005234d4feaf350343ad14f351004d4d25d9c2b"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "6340a88921b62b5e3f688fa0808817e8cb338a725b070df52405bc26e7e5b49f"
+file = "mods/rhino.pw.toml"
+hash = "b530e384695dc6a2af30a6383b46ec40f0823b64ac37189cfb155774d890fe4c"
 metafile = true
 
 [[files]]
@@ -2428,6 +2436,11 @@ metafile = true
 [[files]]
 file = "mods/simple-chunkloader-fabric.pw.toml"
 hash = "6ab8a916f100c5ba873d0c66bfb303fb7c031bc67d1a717059d44edebdc09493"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "ad6042e4db365e6be33c7562edf9a7f6a9373d389e408da2a25a35e2d0a8bca2"
 metafile = true
 
 [[files]]
