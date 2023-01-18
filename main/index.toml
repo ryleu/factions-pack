@@ -2022,7 +2022,7 @@ metafile = true
 
 [[files]]
 file = "mods/bottled-air.pw.toml"
-hash = "978bb9ce4d2a395d207dacaa0d398d9584dadad90bd017fafc0d183ee663f8cc"
+hash = "f067a38a3d0bc4f6c6515b14d5b18ab5b245d7c822bde7f723163a36114b970f"
 metafile = true
 
 [[files]]
@@ -2067,7 +2067,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e38f9c2d25cf912e95f1a153c56573a1e56edc48e1d20067de5d226d78950772"
+hash = "44f189015d9e907e29e05890f380147afe9faa4c3d7737fca118811c45efba82"
 metafile = true
 
 [[files]]
@@ -2172,7 +2172,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "8734a1cae80c68536718f2d911ab88762d16083d7bab09162eff0f310e5ef054"
+hash = "6cb556d3b5465773706eba1bde31a7e0a3649d3eba27f7a2c8fe637592cdba0d"
 metafile = true
 
 [[files]]
@@ -2337,7 +2337,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "bd3914c9be28eb7744b2a040ae5eb3e4164f5ed975780f27d0b40b3c1405132d"
+hash = "648809852852bf246eb4fd2d454ae0c32667ef40c6187af35a0cf80ca0805e41"
 metafile = true
 
 [[files]]
@@ -2412,7 +2412,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "2285e883b1b85fb5a966e023c75180b6415a2860fa0962d472d2d8caf4cff83d"
+hash = "9c08011eaed91ca490a032279dd468d414a0153db6d8d24438a9cbf5a162d1bb"
 metafile = true
 
 [[files]]
@@ -2487,7 +2487,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "46bb4af64a3e00d1dbc690c1bce3b119c837e7b9f7f0d1bcd5f1466366c4da86"
+hash = "2909f784a945728d54fc296d21445b2879acac932c84f9e61667609f43b07e8b"
 metafile = true
 
 [[files]]
