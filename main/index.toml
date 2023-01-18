@@ -789,6 +789,10 @@ file = "kubejs/assets/minecraft/models/item/yellow_bed.json"
 hash = "de313637e3dc4c34ae9bdcaaf8265fc4d10cda611fdb47bf46fa3af1351643ff"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/LICENSE"
+hash = "ca04419e9c7302fca0247cf50e888ae1f6c84b9269ba86a0af2a3257e5833f1c"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/block/acacia_leaves.png"
 hash = "c6390a288c4b590ce75c2f2d8c22047e5428b8911cfba2f49e677e5e670a9b85"
 
