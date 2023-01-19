@@ -305,6 +305,10 @@ file = "config/xaeroworldmap.txt"
 hash = "9b327ae6c0c06b47f2891fe093a70bc2568269f23286f36f4c91b180c016b5cd"
 
 [[files]]
+file = "kubejs/assets/minecraft/LICENSE"
+hash = "ca04419e9c7302fca0247cf50e888ae1f6c84b9269ba86a0af2a3257e5833f1c"
+
+[[files]]
 file = "kubejs/assets/minecraft/blockstates/bee_nest.json"
 hash = "2a3f85421a9fdb96ebedcb649c412594197b7819fc8073aa0957447be9c6e367"
 
@@ -791,10 +795,6 @@ hash = "1105b23b79743fd2f31d40d4a593a7b87186fd1ff0c3ffb3e60af46bd681419b"
 [[files]]
 file = "kubejs/assets/minecraft/models/item/yellow_bed.json"
 hash = "de313637e3dc4c34ae9bdcaaf8265fc4d10cda611fdb47bf46fa3af1351643ff"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/LICENSE"
-hash = "ca04419e9c7302fca0247cf50e888ae1f6c84b9269ba86a0af2a3257e5833f1c"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/block/acacia_leaves.png"
