@@ -13,6 +13,10 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"
 
 [[files]]
+file = "config/aileron.json"
+hash = "83c8d0b7290375814ab1cf2bb5a6f909d1603ff11f388ce9b55a6941c3f5fc66"
+
+[[files]]
 file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
@@ -2037,6 +2041,11 @@ hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
+metafile = true
+
+[[files]]
 file = "mods/cave-enhancements.pw.toml"
 hash = "64861973d33a1cb44b1ab044001169fcd4302fb7ed80ce35ad576ab4ae1171c1"
 metafile = true
@@ -2327,6 +2336,16 @@ hash = "63914b645092557cf4824cf3be35e71f5cf8b9345a1c45de27d5da13e97b48f4"
 metafile = true
 
 [[files]]
+file = "mods/moovy.pw.toml"
+hash = "e7a7a45ecb5727e47af4e118c66bd3cbde64ef03fd30001088e3f56cdcbe87b1"
+metafile = true
+
+[[files]]
+file = "mods/new-infinity-fix.pw.toml"
+hash = "7e8190cbf33d88bc3c1ac27bc7d45e94ad52575dd5249a84cd90a5e6f9b687a8"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
@@ -2369,6 +2388,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "02237c6df2fd74cdce0bcfdaf89407602e354a5e0cb3507f234e1f85a8568cb0"
+metafile = true
+
+[[files]]
+file = "mods/pluckablearrows.pw.toml"
+hash = "96ca5045d1110d2da730c747ab1d4339d4c4547a3edd50fdf0a3e53a1ec7d4c9"
 metafile = true
 
 [[files]]
@@ -2479,11 +2503,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
-metafile = true
-
-[[files]]
-file = "mods/squakefabric.pw.toml"
-hash = "b13ec6db407d326d44d33a01d2e2623a83839c1361fe434a35e111b14cb2460a"
 metafile = true
 
 [[files]]
