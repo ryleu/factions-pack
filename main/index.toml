@@ -1901,6 +1901,10 @@ file = "kubejs/data/factions/recipes/name_tag.json"
 hash = "20f03a24cf25be656a3cbe0e3fbdefe081d69069d47ec9ee471e3a0aef48dbc7"
 
 [[files]]
+file = "kubejs/data/factions/recipes/rotting_tomatoes.json"
+hash = "9a5ce56a938a5c5834491d46198ab218169007e82b74b05a5687fbcc21ecb7a6"
+
+[[files]]
 file = "kubejs/data/farmersdelight/weapon_attributes/diamond_knife.json"
 hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
 
