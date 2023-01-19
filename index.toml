@@ -138,7 +138,7 @@ hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
 
 [[files]]
 file = "config/frostiful.json"
-hash = "f342c440b060f0ff0b70ba2954eb1a4d46d31840f45f70f2b07595c4673a9bfa"
+hash = "65d69885d43ac101354d20a4f6088b34763237097c93bf8d1a8c754d3612dd27"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"

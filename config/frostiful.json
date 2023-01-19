@@ -1,6 +1,6 @@
 {
   "clientConfig": {
-    "frostOverlayStart": 0.75,
+    "frostOverlayStart": 0.5,
     "doColdHeartOverlay": true,
     "shakingStartPercent": 0.75,
     "renderDripParticles": true
@@ -49,6 +49,6 @@
     "growChanceDuringThunder": 0.15,
     "frostArrowFreezeAmount": 1000,
     "icicleCollisionFreezeAmount": 3000,
-    "maxLightLevelToForm": 10
+    "maxLightLevelToForm": 7
   }
 }
