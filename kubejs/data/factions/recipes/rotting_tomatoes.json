@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "farmersdelight:tomato"
+		},
+		{
+			"item": "farmersdelight:tomato"
+		},
+		{
+			"item": "farmersdelight:tomato"
+		},
+		{
+			"item": "farmersdelight:tomato"
+		},
+		{
+			"item": "farmersdelight:tomato"
+		},
+		{
+			"item": "farmersdelight:tomato"
+		},
+		{
+			"item": "farmersdelight:tomato"
+		},
+		{
+			"item": "farmersdelight:tomato"
+		},
+        {
+            "item": "minecraft:rotten_flesh"
+        }
+	],
+    "result":
+    {
+        "item": "farmersdelight:rotten_tomato",
+        "count": 8
+    }
+}
