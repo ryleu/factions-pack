@@ -9,6 +9,9 @@ ItemEvents.modification(event => {
 	event.modify('minecraft:egg', item => {
 		item.maxStackSize = 64;
 	});
+	event.modify('farmersdelight:rotten_tomato', item = {
+		item.maxStackSize = 64;
+	});
 	event.modify('adorn:hot_chocolate', item => {
 		item.foodProperties = food => {
 			food.effect("frostiful:warmth", 1200, 2, 1.0);
