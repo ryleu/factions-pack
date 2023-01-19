@@ -1961,6 +1961,11 @@ hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
 metafile = true
 
 [[files]]
+file = "mods/amethyst-imbuement.pw.toml"
+hash = "0a5b2bbc28ceb9c2bde1c7ab319a97acf7dd6a3ddcd1e1cef47145ddd9fbb2f5"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "4622fb45626c72f5310606c9db18271e18a195cf7ef57707287039dd9f81a299"
 metafile = true
