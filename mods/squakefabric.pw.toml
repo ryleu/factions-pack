@@ -1,0 +1,13 @@
+name = "SquakeFabric"
+filename = "squake-fabric-1.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Em6ETp7L/versions/DReKzNQg/squake-fabric-1.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "011509a7626751f7174c7019551638a8f96e6568"
+
+[update]
+[update.modrinth]
+mod-id = "Em6ETp7L"
+version = "DReKzNQg"

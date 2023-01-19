@@ -273,6 +273,10 @@ file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
+file = "config/squake.cfg"
+hash = "058ec0413b38e8d373a5495f4d6cddc6e06bbc193f11f750e2d9ad61ffe6484d"
+
+[[files]]
 file = "config/tr7zwDonorSettings.json"
 hash = "00c5704f0bf0b89f14d7b8eba4eeb38199bc760f4d00dd78a2c2bcf32747c009"
 
@@ -1938,6 +1942,11 @@ hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
 metafile = true
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "6beca67b09effde6cb786550855e03f84aa16c89282a44251df922648d5f3620"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
@@ -2313,11 +2322,6 @@ hash = "63914b645092557cf4824cf3be35e71f5cf8b9345a1c45de27d5da13e97b48f4"
 metafile = true
 
 [[files]]
-file = "mods/moovy.pw.toml"
-hash = "e7a7a45ecb5727e47af4e118c66bd3cbde64ef03fd30001088e3f56cdcbe87b1"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
@@ -2470,6 +2474,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
+metafile = true
+
+[[files]]
+file = "mods/squakefabric.pw.toml"
+hash = "b13ec6db407d326d44d33a01d2e2623a83839c1361fe434a35e111b14cb2460a"
 metafile = true
 
 [[files]]
