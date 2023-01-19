@@ -305,10 +305,6 @@ file = "config/xaeroworldmap.txt"
 hash = "9b327ae6c0c06b47f2891fe093a70bc2568269f23286f36f4c91b180c016b5cd"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
-
-[[files]]
 file = "kubejs/assets/minecraft/blockstates/bee_nest.json"
 hash = "2a3f85421a9fdb96ebedcb649c412594197b7819fc8073aa0957447be9c6e367"
 
@@ -2151,8 +2147,23 @@ hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "acbe2b86cf452fd742fe76d32b6473f1da2f3e8f2d36d43a6f96fc32b369327e"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "6b6203af7dc03a920fb09c81f79340d9d6d1bc9a9f9c3682db49e3b085d54549"
+metafile = true
+
+[[files]]
+file = "mods/emi_farmersdelight.pw.toml"
+hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
 metafile = true
 
 [[files]]
