@@ -2506,6 +2506,11 @@ hash = "6ab8a916f100c5ba873d0c66bfb303fb7c031bc67d1a717059d44edebdc09493"
 metafile = true
 
 [[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "320c6865e322a7d6d8ec60bd2189132c52ee973af10ed255a8aac7cc26ae170e"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "ad6042e4db365e6be33c7562edf9a7f6a9373d389e408da2a25a35e2d0a8bca2"
 metafile = true
