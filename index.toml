@@ -1866,7 +1866,7 @@ hash = "07f2c47fe92a165adbf0f8c75eee4c2470bd411b9acb99e99b6ef1d909e8174f"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
-hash = "f7534f18e0e6a728766a0f7464a58198c8995a2f330d8767737f71575da38693"
+hash = "8b084f2011f202c68ce720cfa71f2f6bf1a016e26562b2f6bb948a53f72566ce"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1938,7 +1938,7 @@ hash = "7d83e23b39df0097f5d158ccbe9d17cb2041af8c5f0379eb8e8bb1ad9e2fe217"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "2c19be7db959375bf11d75e7a2f23a29bbbcb45cfaa30e2b385d83c167a7771e"
+hash = "3baf1644790542ebb1ee00373f0d8767c7ed99becd61be34f0339f6a4265861b"
 
 [[files]]
 file = "mods/adorn.pw.toml"
