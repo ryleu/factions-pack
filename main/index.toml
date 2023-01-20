@@ -2226,6 +2226,11 @@ hash = "9d2eea6692afc65ee73bc2df00420aa372e1cc1f2b72d041c2f9da22755e6aa3"
 metafile = true
 
 [[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "fb64e5399ba05d046421b555c9df30393eb748fdaadaedfa894c389dc1070001"
+metafile = true
+
+[[files]]
 file = "mods/frame-api.pw.toml"
 hash = "8178032232586e97c3db3aa7c9f5c3901d98c53b6aeed32097a4acbfd908c374"
 metafile = true
