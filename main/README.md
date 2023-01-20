@@ -6,7 +6,7 @@ Install Java 17. I would recommend the [Adoptium](https://adoptium.net) distribu
 
 Install a supported laucher, such as MultiMC or Prism Launcher.
 
-Grab the [modpack zip](./releases/latest/download/Factions.zip).
+Grab the [modpack zip](https://github.com/ryleu/factions-pack/releases/download/auto-update/Factions.zip).
 
 Add an instance in your laucnher and import the zip file you just downloaded.
 
