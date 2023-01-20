@@ -2276,6 +2276,11 @@ hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
 metafile = true
 
 [[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
+metafile = true
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "3c95ba1c0a5e8065fbce03ea38aef44e5dfdff2e681c81a8720e6ff543774309"
 metafile = true
@@ -2528,11 +2533,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
-metafile = true
-
-[[files]]
-file = "mods/stepup.pw.toml"
-hash = "f4c40da8fc378013420d86fbdd3663f16cc8b8941be0ca18a61d8eac943c0ce7"
 metafile = true
 
 [[files]]
