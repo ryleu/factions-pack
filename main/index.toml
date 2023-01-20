@@ -2461,6 +2461,11 @@ hash = "b530e384695dc6a2af30a6383b46ec40f0823b64ac37189cfb155774d890fe4c"
 metafile = true
 
 [[files]]
+file = "mods/ruined-equipment.pw.toml"
+hash = "fd8f9ba5d5524d8e542ec7c17bec773353ab28346a84cd72d1295d12ecb122bc"
+metafile = true
+
+[[files]]
 file = "mods/scout.pw.toml"
 hash = "9220edac770c544c7c4aab53580f9a01b8e9e7a82e17f4bd7d4432b1b48998c9"
 metafile = true
