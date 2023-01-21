@@ -1938,7 +1938,7 @@ hash = "7d83e23b39df0097f5d158ccbe9d17cb2041af8c5f0379eb8e8bb1ad9e2fe217"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "3baf1644790542ebb1ee00373f0d8767c7ed99becd61be34f0339f6a4265861b"
+hash = "00690c5a32490c03ac4bea616d670256495cf690a9f51daf7134c727c2a67161"
 
 [[files]]
 file = "mods/adorn.pw.toml"
