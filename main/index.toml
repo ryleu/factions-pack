@@ -2156,21 +2156,6 @@ hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "0dae59129e00d7a9e9bd231efc735cb650b8f582fe18138c555c403c6daf5565"
-metafile = true
-
-[[files]]
-file = "mods/emi_farmersdelight.pw.toml"
-hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
-metafile = true
-
-[[files]]
-file = "mods/emicompat.pw.toml"
-hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
-metafile = true
-
-[[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
@@ -2458,6 +2443,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "b530e384695dc6a2af30a6383b46ec40f0823b64ac37189cfb155774d890fe4c"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "accb90f4206f72fb32cd56c55eee18829033bf3972eeb90575e2aaf61979c6e1"
 metafile = true
 
 [[files]]
