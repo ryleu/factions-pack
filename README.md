@@ -8,7 +8,7 @@ Install a supported laucher, such as MultiMC or Prism Launcher.
 
 Grab the [modpack zip](https://github.com/ryleu/factions-pack/releases/download/auto-update/Factions.zip).
 
-Add an instance in your laucnher and import the zip file you just downloaded.
+Add an instance in your launcher and import the zip file you just downloaded.
 
 [![Prism Launcher](https://prismlauncher.org/img/logo-text-darkmode.svg)](https://prismlauncher.org)
 
