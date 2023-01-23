@@ -14,4 +14,4 @@ Add an instance in your launcher and import the zip file you just downloaded.
 
 ## Notes
 
-This modpack uses packwiz, which means that as things change, the pack will update automatically. To make changes to the mod list, please fork my repository, enable the actions workflow, make your changes, using [packwiz](https://github.com/packwiz/packwiz), enable pages on the `gh-pages` branch, and then change the URL in the custom launch command to `https://username.github.io/main/pack.toml`, replacing username with your username.
+This modpack uses packwiz, which means that as things change, the pack will update automatically. To make changes to the mod list, please fork my repository, enable the actions workflow, make your changes using [packwiz](https://github.com/packwiz/packwiz), enable pages on the `gh-pages` branch, and then change the URL in the custom launch command to `https://username.github.io/main/pack.toml`, replacing username with your username.
