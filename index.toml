@@ -2041,11 +2041,6 @@ hash = "f067a38a3d0bc4f6c6515b14d5b18ab5b245d7c822bde7f723163a36114b970f"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "f551f7780b8d32345f7c4646137d1ed91fb7f24e3a61d998d6fc5b366f44b4a0"
-metafile = true
-
-[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
 metafile = true
@@ -2278,11 +2273,6 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "90f3e53b8e7d850b8177d38a728592ef9359715f98ba1ab683b87c3198aad329"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
