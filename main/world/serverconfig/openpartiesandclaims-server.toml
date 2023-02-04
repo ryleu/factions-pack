@@ -246,11 +246,3 @@
 			#Whether to completely disable frost walking on the server. Use this if the regular frost walking protection doesn't work, since there is no game rule for it.
 			completelyDisableFrostWalking = false
 
-			platesFromMobs = false
-			platesFromOther = false
-			platesFromPlayers = false
-
-			tripwireFromMobs = false
-			tripwireFromOther = false
-			tripwireFromPlayers = false
-
