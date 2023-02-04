@@ -2351,6 +2351,11 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/no-unused-chunks.pw.toml"
+hash = "845943acfb23d1b1c85d6d9362cd9bb731e9c33ce9bbc5c809fe815d01007362"
+metafile = true
+
+[[files]]
 file = "mods/norecipebook-fabric.pw.toml"
 hash = "3329afb49f3d9c3653fff23844485b752f079e2a6b94906d31b889006a07fbea"
 metafile = true
