@@ -2581,5 +2581,9 @@ hash = "7ec33cbc88837f04b8ba1d30e97a180d942d1b338079f984668a6fcfb3ac9ac8"
 metafile = true
 
 [[files]]
+file = "world/serverconfig/openpartiesandclaims-default-player-config.toml"
+hash = "3119c24c77614e0bdb68a3c903428ef271a7db9e0af3d5c909ae2f7ef7c4c026"
+
+[[files]]
 file = "world/serverconfig/openpartiesandclaims-server.toml"
-hash = "08882d0ed2f7831b6d72369bb495bc18aeb33fc3756033f22f9358684244efd5"
+hash = "856353b4040a580ae1a369db16643a5e2dacee94902967c4dd27cc2a2bbb40c9"
