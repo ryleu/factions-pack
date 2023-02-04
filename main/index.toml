@@ -1877,6 +1877,10 @@ file = "kubejs/config/common.properties"
 hash = "9fc9f0e2e6588924f6b3a119ab2f828f2011dc6977ff834b08b6ed89215b39ca"
 
 [[files]]
+file = "kubejs/data/factions/functions/every_minute.mcfunction"
+hash = "6b760c46331e19db8cea7052015531209241b077ebe31c6414f53859033bd7da"
+
+[[files]]
 file = "kubejs/data/factions/functions/load.mcfunction"
 hash = "c04a04a1968083bcf7346ca3cd182d8d608d5e1a93e028d8041296037671019d"
 
@@ -1926,7 +1930,7 @@ hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/functions/load.json"
-hash = "ad2b9930908cbde85dac28dddb547624145b82a611b0ad80e25530d8f4e30430"
+hash = "b72f711c3815def693e6bfb852e9fc8fa3f7f0b0c9b8c1c89f5997c5ee5eeb90"
 
 [[files]]
 file = "kubejs/data/ratsmischief/recipes/leather_rat_pouch.json"
@@ -2078,6 +2082,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
 metafile = true
 
 [[files]]
