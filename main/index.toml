@@ -2191,11 +2191,6 @@ hash = "b560d826e84582158fa66d039531cf71511af996a7dc028491924e46866d7577"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "6cb556d3b5465773706eba1bde31a7e0a3649d3eba27f7a2c8fe637592cdba0d"
-metafile = true
-
-[[files]]
 file = "mods/fish-of-thieves.pw.toml"
 hash = "9d2eea6692afc65ee73bc2df00420aa372e1cc1f2b72d041c2f9da22755e6aa3"
 metafile = true
