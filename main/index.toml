@@ -249,6 +249,10 @@ file = "config/sihywtcamd/zombie.json"
 hash = "1355603c0fd3cdd0b2211b1a01d754f36f7fa1c135d94ccad89b9196e1f02218"
 
 [[files]]
+file = "config/sleepwarp.properties"
+hash = "e5dc7afbba04fc3ba5af9d7cec4b3a3a7aa6c6a48d3d8e8ed115c28102d34e87"
+
+[[files]]
 file = "config/smoothboot.json"
 hash = "7eb2c9832f1adc79eb19fe0c0262d9cb7ed551cc59f79d4bdcf9373c3194c2c5"
 
