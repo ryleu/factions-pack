@@ -1,6 +1,5 @@
 {
 	"values": [
-		"factions:load",
-		"factions:every_minute"
+		"factions:load"
 	]
 }

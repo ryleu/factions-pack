@@ -10,7 +10,7 @@
 	playerSubConfigLimit = 64
 	#A list of options in the player config that individual players can reconfigure. If an option is in neither of the configurable option lists,
 	#then the value in the default player config is used across the server. Check the default player config .toml file for the option names.
-	playerConfigurablePlayerConfigOptions = ["claims.protectClaimedChunks", "claims.name", "claims.color", "claims.protection.fromParty", "claims.protection.fromAllyParties", "claims.protection.fluidBarrier", "claims.protection.dispenserBarrier", "claims.protection.pistonBarrier", "parties.name", "parties.shareLocationWithParty", "parties.shareLocationWithMutualAllyParties", "parties.receiveLocationsFromParty", "parties.receiveLocationsFromMutualAllyParties", "claims.protection.exceptionGroups.block.interact.Beacons", "claims.protection.platesFromMobs", "claims.protection.platesFromPlayers", "claims.protection.platesFromOther"]
+	playerConfigurablePlayerConfigOptions = ["claims.protectClaimedChunks", "claims.name", "claims.color", "claims.protection.fromParty", "claims.protection.fromAllyParties", "claims.protection.fluidBarrier", "claims.protection.dispenserBarrier", "claims.protection.pistonBarrier", "parties.name", "parties.shareLocationWithParty", "parties.shareLocationWithMutualAllyParties", "parties.receiveLocationsFromParty", "parties.receiveLocationsFromMutualAllyParties", "claims.protection.exceptionGroups.block.interact.Beacons"]
 	#A list of additional options in the player config that OPs can reconfigure for players.
 	#This is meant for options that should be configured per player but not by the players.
 	#If an option is in neither of the configurable option lists, then the value in the default player config is used across the server.
@@ -245,4 +245,12 @@
 			completelyDisabledEntityInteractions = []
 			#Whether to completely disable frost walking on the server. Use this if the regular frost walking protection doesn't work, since there is no game rule for it.
 			completelyDisableFrostWalking = false
+
+			platesFromMobs = false
+			platesFromOther = false
+			platesFromPlayers = false
+
+			tripwireFromMobs = false
+			tripwireFromOther = false
+			tripwireFromPlayers = false
 
