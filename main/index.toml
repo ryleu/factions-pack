@@ -2055,6 +2055,16 @@ hash = "64861973d33a1cb44b1ab044001169fcd4302fb7ed80ce35ad576ab4ae1171c1"
 metafile = true
 
 [[files]]
+file = "mods/chalk-fabric-colorful-addon.pw.toml"
+hash = "98d9115f246db163f2cd4a27776ac175ce22955b8b63e8f9b8d9d8bdbf4e1eaf"
+metafile = true
+
+[[files]]
+file = "mods/chalk-fabric.pw.toml"
+hash = "56a7b25d5c90a7c976967e066c32633bde1dcbcb79476c8a8636dabbdd30fc99"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
