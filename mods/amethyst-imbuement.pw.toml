@@ -1,13 +1,13 @@
 name = "Amethyst Imbuement"
-filename = "amethyst_imbuement-1.19-24.jar"
+filename = "amethyst_imbuement-1.19-25.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fThucCjR/versions/ckVtSeSv/amethyst_imbuement-1.19-24.jar"
+url = "https://cdn.modrinth.com/data/fThucCjR/versions/VjMjGs38/amethyst_imbuement-1.19-25.jar"
 hash-format = "sha1"
-hash = "7704259a51242355cda72a5f2457d81427db7fbf"
+hash = "868b483a9f876bb9509b5d1ae2ed75d9af9638a6"
 
 [update]
 [update.modrinth]
 mod-id = "fThucCjR"
-version = "ckVtSeSv"
+version = "VjMjGs38"
