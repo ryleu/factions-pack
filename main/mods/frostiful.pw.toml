@@ -1,13 +1,13 @@
 name = "Frostiful"
-filename = "frostiful-0.3-alpha.6.jar"
+filename = "frostiful-0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ae6qoBj3/versions/YnWO0g9T/frostiful-0.3-alpha.6.jar"
+url = "https://cdn.modrinth.com/data/Ae6qoBj3/versions/7h8CUVuX/frostiful-0.4.jar"
 hash-format = "sha1"
-hash = "647886b1b0f21884d1d6923d52f2defc1caa1573"
+hash = "f1a1008f654caf76e35299fb800e79de90cda07d"
 
 [update]
 [update.modrinth]
 mod-id = "Ae6qoBj3"
-version = "YnWO0g9T"
+version = "7h8CUVuX"

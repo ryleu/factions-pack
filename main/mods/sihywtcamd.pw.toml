@@ -1,13 +1,13 @@
 name = "So I heard you were talking crap about Minecraft's difficulty?"
-filename = "sihywtcamd-1.7.1+1.19.jar"
+filename = "sihywtcamd-1.7.2+1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a6494b65e650702cb7801fc2bcaf342aca8f2e72"
+hash = "41e4af12bdcfc553c7bb6872b37821bfe2273fac"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3846477
+file-id = 4378252
 project-id = 460652
