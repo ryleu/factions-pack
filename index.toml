@@ -1990,6 +1990,11 @@ hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
+file = "mods/armor-nerf.pw.toml"
+hash = "8eff86584fb459f9b4ef3bfce89f6ce87fb57b8eb4a16263ad83708ad755a539"
+metafile = true
+
+[[files]]
 file = "mods/armorstandeditor.pw.toml"
 hash = "05ad8e917843bc4cb4e7a6ba40fcfe07051b60d201d3aa54fab72cc50cc51ed2"
 metafile = true
