@@ -1996,7 +1996,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-nerf.pw.toml"
-hash = "8eff86584fb459f9b4ef3bfce89f6ce87fb57b8eb4a16263ad83708ad755a539"
+hash = "a7706b8abadcdfb2032a5fdc14402ac03335af15ac410bb9651c49416ce32751"
 metafile = true
 
 [[files]]
