@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/nrXHkZFC/versions/LooKFrFy/armor-nerf-1.2.0.jar"
 hash-format = "sha1"
-hash = "4eb20e26b5d149837a172eda8d2eeabd1d9375fe"
+hash = "e84c593cebd3f7727943b3b08e095cdd4ca2f15d"
 
 [update]
 [update.modrinth]
