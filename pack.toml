@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "f9bd489ad2b056f9fa4ab7cadc9d4018f1bd5da6321e71836d399d3fc1c3f34e"
-=======
-hash = "cbd9f01ce4d9414b47c9e9163791510ddc0dc498c52bb11fc1d4811f26ee8d6b"
->>>>>>> 00976a2 (nerfed armor)
+hash = "68dc98b7ca3058aeb5de4eb00c0a92351d6f734a1b51ada54cf3b212a0503650"
 
 [versions]
 minecraft = "1.19.2"
