@@ -1,13 +1,13 @@
 name = "Armor Nerf"
-filename = "armor-nerf-1.2.0.jar"
+filename = "armor-nerf-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nrXHkZFC/versions/LooKFrFy/armor-nerf-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/nrXHkZFC/versions/uHMaoSic/armor-nerf-1.0.1.jar"
 hash-format = "sha1"
-hash = "e84c593cebd3f7727943b3b08e095cdd4ca2f15d"
+hash = "b2ac5eb3b102572675b744f2a0b1708a89ea511e"
 
 [update]
 [update.modrinth]
 mod-id = "nrXHkZFC"
-version = "LooKFrFy"
+version = "uHMaoSic"
