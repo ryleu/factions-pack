@@ -137,10 +137,6 @@ file = "config/flywheel.json"
 hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
 
 [[files]]
-file = "config/frostiful.json"
-hash = "65d69885d43ac101354d20a4f6088b34763237097c93bf8d1a8c754d3612dd27"
-
-[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "a07b9d599a8d128e8ea715b887f6019a3964a6f0beb99debff830db18b249aa7"
 
@@ -250,7 +246,7 @@ hash = "1355603c0fd3cdd0b2211b1a01d754f36f7fa1c135d94ccad89b9196e1f02218"
 
 [[files]]
 file = "config/sleepwarp.properties"
-hash = "e5dc7afbba04fc3ba5af9d7cec4b3a3a7aa6c6a48d3d8e8ed115c28102d34e87"
+hash = "df1b9dc5c52e9b32959d9a19458854ff1a6c27214131d64137e1db16aa4edcf5"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -2232,11 +2228,6 @@ metafile = true
 [[files]]
 file = "mods/frame-api.pw.toml"
 hash = "8178032232586e97c3db3aa7c9f5c3901d98c53b6aeed32097a4acbfd908c374"
-metafile = true
-
-[[files]]
-file = "mods/frostiful.pw.toml"
-hash = "d36caa5c141f252b0b88bf6179af894ad1a7db955509019e977fb4fc9a96d77c"
 metafile = true
 
 [[files]]
