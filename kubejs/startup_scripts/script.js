@@ -17,17 +17,17 @@ ItemEvents.modification(event => {
 	});
 	event.modify('adorn:hot_chocolate', item => {
 		item.foodProperties = food => {
-			food.effect("frostiful:warmth", 1200, 2, 1.0);
+			//food.effect("", 1200, 2, 1.0);
 		};
 	});
 	event.modify('adorn:nether_wart_coffee', item => {
 		item.foodProperties = food => {
-			food.effect("frostiful:warmth", 600, 2, 1.0);
+			food.effect("minecraft:speed", 1200, 0, 1.0);
 		};
 	});
 	event.modify('adorn:glow_berry_tea', item => {
 		item.foodProperties = food => {
-			food.effect("frostiful:warmth", 300, 2, 1.0);
+			food.effect("minecraft:regeneration", 100, 2, 1.0);
 		};
 	});
 });
