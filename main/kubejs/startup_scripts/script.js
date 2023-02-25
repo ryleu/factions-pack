@@ -17,7 +17,8 @@ ItemEvents.modification(event => {
 	});
 	event.modify('adorn:hot_chocolate', item => {
 		item.foodProperties = food => {
-			//food.effect("", 1200, 2, 1.0);
+			food.effect("minecraft:speed", 600, 0, 1.0);
+			food.effect("minecraft:regeneration", 60, 2, 1.0);
 		};
 	});
 	event.modify('adorn:nether_wart_coffee', item => {
@@ -27,7 +28,7 @@ ItemEvents.modification(event => {
 	});
 	event.modify('adorn:glow_berry_tea', item => {
 		item.foodProperties = food => {
-			food.effect("minecraft:regeneration", 100, 2, 1.0);
+			food.effect("minecraft:regeneration", 120, 2, 1.0);
 		};
 	});
 });
