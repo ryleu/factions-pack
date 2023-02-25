@@ -1901,6 +1901,14 @@ file = "kubejs/data/factions/recipes/name_tag.json"
 hash = "20f03a24cf25be656a3cbe0e3fbdefe081d69069d47ec9ee471e3a0aef48dbc7"
 
 [[files]]
+file = "kubejs/data/factions/recipes/rice_crushing.json"
+hash = "111e4dab5bb7b9319fe2cc20da6261da5dc719dd8d9cd21f021d42ef6d1c806c"
+
+[[files]]
+file = "kubejs/data/factions/recipes/rice_milling.json"
+hash = "06167b0da822965f4162ddcae3ae39e7ea5e3e85fb80d023177341a30dacceef"
+
+[[files]]
 file = "kubejs/data/factions/recipes/rotting_tomatoes.json"
 hash = "9a5ce56a938a5c5834491d46198ab218169007e82b74b05a5687fbcc21ecb7a6"
 
@@ -1938,7 +1946,7 @@ hash = "7d83e23b39df0097f5d158ccbe9d17cb2041af8c5f0379eb8e8bb1ad9e2fe217"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "6774980dfd51e11e84e0db3b560bf307dc2bf4ded646db43fd71b5f9a9115519"
+hash = "40f16aea16dba2925d0fb08f22ac2a602d2226edff267f5c8c1a9f96663d088c"
 
 [[files]]
 file = "mods/adorn.pw.toml"
